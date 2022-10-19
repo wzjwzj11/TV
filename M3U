@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,翡翠台
+http://livetv.dnsfor.me/channel.18.m3u8
 #EXTINF:-1,Exstasy HD
 http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
 #EXTINF:-1,C人直播
