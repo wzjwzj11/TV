@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:-1,翡翠台
-http://livetv.dnsfor.me/channel.18.m3u8
+#EXTINF:-1,N1
+http://sea1.live.dreamcast.cc/hls/n1.m3u8
+#EXTINF:-1,N2
+https://saurabh0900000.s3-accelerate.amazonaws.com/dolphins2.m3u8
 #EXTINF:-1,Exstasy HD
 http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
 #EXTINF:-1,C人直播
@@ -123,34 +125,6 @@ https://d862cp.cdnedge.live/file/avple-images/hls/629a01ce62a22f14d4ef251b/playl
 https://zo392.cdnedge.live/file/avple-images/hls/629a011862a22f14d4ef251a/playlist.m3u8
 #EXTINF:-1,🍓6传媒72
 https://10j99.cdnedge.live/file/avple-images/hls/6298bad914bfa15d01c0842d/playlist.m3u8
-#EXTINF:-1,潘朵拉玩美 1
-https://mega.nz/file/iuZFHbBR#vroLdwGRVvHhbtaB4XK69hwGjqttyPAEpbP8y3KdLUA
-#EXTINF:-1,潘朵拉玩美 2
-https://mega.nz/file/yy51CDjY#NKrfBEfOyhCJWvBK4pRgCNF9SW3Mv4o5zoUD0-n3oIw
-#EXTINF:-1,惊艳电影台 1
-https://mega.nz/file/yKRw1AQb#EZruT9Rb8sqV-hA7FSfLhgzK_GTY--QjUsMP-nVGSMA
-#EXTINF:-1,惊艳电影台 2
-https://mega.nz/file/fLZHzb5I#rptSDoa9MPmomRoEkyiW_EYYjXf7cYGpcw4RKsqDu0s
-#EXTINF:-1,惊艳电影台 3
-https://mega.nz/file/rXJ2BJgB#HnImgu7UJkW7-TJ8zPtfCzWT3lgn4bBCPP_W9Bz17B0
-#EXTINF:-1,星穎 1
-https://mega.nz/file/TPognIrQ#Dn5nBDDtfdoEeeUvlwLpdXB3ynh5SV58CM3G6YNbFWU
-#EXTINF:-1,星穎 2
-https://mega.nz/file/vb4UQIwJ#p_BGZ_Lw5toWuNqiDT-SG53BoFO8xZmSrLlXFh52Jn8
-#EXTINF:-1,松视 1 台 1
-https://mega.nz/file/KWB3lYhB#kabqs1XSJKBnPUTKnKs6dkyAQWUUVDbdGbokMw9y0_g
-#EXTINF:-1,松视 1 台 2
-https://mega.nz/file/DaImXbwa#GPjqKcHT7lUpYFAtlqaRGYm9Sr0HktFjbY03HAm-U9s
-#EXTINF:-1,松视 3 台 1
-https://mega.nz/file/LLR3nKpY#yCysCjK6k2p8scVJQU8E0ySpOtIeSvXIN9Le33lsx04
-#EXTINF:-1,松视 3 台 2
-https://mega.nz/file/frZE2RwR#it1PJP9ts1ndxF_KEKyFvvOHIowc7HYRENWjCCZ3Ruc
-#EXTINF:-1,潘朵拉粉紅 1
-https://mega.nz/file/3qQh3KKQ#nQ-kt4G9PXnQAZkEIqM9DLtTkW9aE6F_tM5aJtdIdE4
-#EXTINF:-1,潘朵拉粉紅 2
-https://mega.nz/file/frp1lYgD#EX9tMUrd1PNGi-MBtUcPTPbSdMSU2D6a4E7CU20-DVY
-#EXTINF:-1,香蕉台 1
-https://mega.nz/file/SjAwWDia#VYrGLDjTRcegSRrk8JHnWkpJ2x0uP61UI36eRDD6YsY
 #EXTINF:-1,ayami
 https://fc.imgscloud.com/d/bchdfcildc/bchdfcildc.m3u8
 #EXTINF:-1,北条麻妃
