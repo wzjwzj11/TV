@@ -15,6 +15,18 @@ http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&
 http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
 #EXTINF:-1,HBO HITS
 http://50.7.220.74:8278/hbohead_twn/playlist.m3u8?tid=MCDC6663932966639329&ct=19193&tsum=6999a99699b097f3af2ef550e5c81f93
+#EXTINF:-1,星空卫视@@2[720x576][h264xaac]
+https://epg.pm/stream/e34f059c6c1827a1d4c4eb05e4187977ab8fb6ae477c3fb77c95cd208dde5b79.php
+#EXTINF:-1,VIUTV[1280x720][h264xaac]
+https://epg.pm/stream/722cfa4e2c0ef873bd47dae3892b10ef9a1b55dcd54f85323483de8e000a9343.m3u8
+#EXTINF:-1,VIUTV6[1280x720][h264xaac]
+https://epg.pm/stream/f53b0866960595cc371274ef7236be709322e7d8e5ab84f4e3bcb09685de28c0.m3u8
+#EXTINF:-1,全佳[1280x720][h264xaac]
+https://epg.pm/stream/c5e8394d2fee37a07516387bd4bde8ac77b9f355fa9db7f0656eb2a889520ee8.m3u8
+#EXTINF:-1,亚洲旅游台[1280x720][h264xaac]
+https://epg.pm/stream/f3c98ec3ff21b0a16594692d6bc28c487ad5ea98cdcd86db77f46bc199d08b32.m3u8
+#EXTINF:-1,TVBS新聞台@@2[1280x720][h264xaac]
+https://epg.pm/stream/0710312137c66b11ef66b472f929a456b3922d3e75a9456dbe4a1f8aa46e36a4.m3u8
 #EXTINF:-1,1号[1920*1080]
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 #EXTINF:-1,2号[1920*1080]
