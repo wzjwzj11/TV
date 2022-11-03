@@ -27,6 +27,20 @@ https://epg.pm/stream/c5e8394d2fee37a07516387bd4bde8ac77b9f355fa9db7f0656eb2a889
 https://epg.pm/stream/f3c98ec3ff21b0a16594692d6bc28c487ad5ea98cdcd86db77f46bc199d08b32.m3u8
 #EXTINF:-1,TVBS新聞台@@2[1280x720][h264xaac]
 https://epg.pm/stream/0710312137c66b11ef66b472f929a456b3922d3e75a9456dbe4a1f8aa46e36a4.m3u8
+#EXTINF:-1,民視新聞
+http://tv.redrainl.site:9500/live.m3u8?c=01
+#EXTINF:-1,三立財經
+http://tv.redrainl.site:9500/live.m3u8?c=51
+#EXTINF:-1,中天新聞
+http://tv.redrainl.site:9500/live.m3u8?c=03
+#EXTINF:-1,中視新聞
+http://tv.redrainl.site:9500/live.m3u8?c=02
+#EXTINF:-1,台視新聞
+http://tv.redrainl.site:9500/live.m3u8?c=11
+#EXTINF:-1,寰宇新聞
+http://tv.redrainl.site:9500/live.m3u8?c=22
+#EXTINF:-1,鏡新聞
+http://tv.redrainl.site:9500/live.m3u8?c=28
 #EXTINF:-1,1号[1920*1080]
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 #EXTINF:-1,2号[1920*1080]
@@ -173,32 +187,3 @@ http://218.32.47.179:18558/.m3u8
 http://218.32.47.179:18559/.m3u8
 #EXTINF:-1,63号[1920*1080]
 http://218.32.47.179:18563/.m3u8
-#EXTM3U x-tvg-url="https://epg.hklive.tv"
-#EXTINF:-1 tvg-id="31" tvg-name="港台電視31" tvg-logo="https://live.hkanime.com.hk/png_logo/31.png" group-title="[RTHK] 香港電台",港台電視31
-https://cdn.hklive.tv/xxxx/31/index.m3u8
-#EXTINF:-1 tvg-id="32" tvg-name="港台電視32" tvg-logo="https://live.hkanime.com.hk/png_logo/32.png" group-title="[RTHK] 香港電台",港台電視32
-https://cdn.hklive.tv/xxxx/32/index.m3u8
-#EXTINF:-1 tvg-id="33" tvg-name="港台電視33" tvg-logo="https://live.hkanime.com.hk/png_logo/33.png" group-title="[RTHK] 香港電台",港台電視33
-https://cdn.hklive.tv/xxxx/33/index.m3u8
-#EXTINF:-1 tvg-id="34" tvg-name="CGTN紀錄頻道" tvg-logo="https://live.hkanime.com.hk/png_logo/34.png" group-title="[RTHK] 香港電台",CGTN紀錄頻道
-https://cdn.hklive.tv/xxxx/34/index.m3u8
-#EXTINF:-1 tvg-id="77" tvg-name="香港開電視" tvg-logo="https://live.hkanime.com.hk/png_logo/77.png" group-title="[Fan] 奇妙電視",香港開電視
-https://cdn.hklive.tv/xxxx/77/index.m3u8
-#EXTINF:-1 tvg-id="76" tvg-name="香港國際財經台" tvg-logo="https://live.hkanime.com.hk/png_logo/76.png" group-title="[Fan] 奇妙電視",香港國際財經台
-https://cdn.hklive.tv/xxxx/76/index.m3u8
-#EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="https://live.hkanime.com.hk/png_logo/81.png" group-title="[TVB] 電視廣播",翡翠台
-https://cdn.hklive.tv/xxxx/81/index.m3u8
-#EXTINF:-1 tvg-id="82" tvg-name="J2台" tvg-logo="https://live.hkanime.com.hk/png_logo/82.png" group-title="[TVB] 電視廣播",J2台
-https://cdn.hklive.tv/xxxx/82/index.m3u8
-#EXTINF:-1 tvg-id="83" tvg-name="無綫新聞台" tvg-logo="https://live.hkanime.com.hk/png_logo/83.png" group-title="[TVB] 電視廣播",無綫新聞台
-https://cdn.hklive.tv/xxxx/83/index.m3u8
-#EXTINF:-1 tvg-id="84" tvg-name="明珠台" tvg-logo="https://live.hkanime.com.hk/png_logo/84.png" group-title="[TVB] 電視廣播",明珠台
-https://cdn.hklive.tv/xxxx/84/index.m3u8
-#EXTINF:-1 tvg-id="84" tvg-name="明珠台 (粵語聲道)" tvg-logo="https://live.hkanime.com.hk/png_logo/84.png" group-title="[TVB] 電視廣播",明珠台 (粵語聲道)
-https://cdn.hklive.tv/xxxx/84b/index.m3u8
-#EXTINF:-1 tvg-id="85" tvg-name="無綫財經·資訊台" tvg-logo="https://live.hkanime.com.hk/png_logo/85.png" group-title="[TVB] 電視廣播",無綫財經·資訊台
-https://cdn.hklive.tv/xxxx/85/index.m3u8
-#EXTINF:-1 tvg-id="99" tvg-name="ViuTV" tvg-logo="https://live.hkanime.com.hk/png_logo/99.png" group-title="[Viu] 香港電視娛樂",ViuTV
-https://cdn.hklive.tv/xxxx/99/index.m3u8
-#EXTINF:-1 tvg-id="96" tvg-name="ViuTV Six" tvg-logo="https://live.hkanime.com.hk/png_logo/96.png" group-title="[Viu] 香港電視娛樂",ViuTV Six
-https://cdn.hklive.tv/xxxx/96/index.m3u8
