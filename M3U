@@ -1,138 +1,86 @@
-#EXTM3U
-#EXTINF:-1 group-title="groupName=央视",CCTV-1HD
+#EXTM3U       
+#EXTINF:-1 group-title="央视",CCTV-1HD
 http://39.134.67.108/PLTV/88888888/224/3221225734/1.m3u8
-#EXTINF:-1 group-title="groupName=央视",CCTV-2HD
+#EXTINF:-1 group-title="央视",CCTV-2HD
 http://39.134.32.102:6610/270000001111/1110000302/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 group-title="groupName=央视",CCTV-3HD
+#EXTINF:-1 group-title="央视",CCTV-3HD
 http://39.134.67.108/PLTV/88888888/224/3221225799/1.m3u8
-#EXTINF:-1 group-title="groupName=央视",CCTV-4HD
+#EXTINF:-1 group-title="央视",CCTV-4HD
 http://39.135.138.58:18890/PLTV/88888888/224/3221225621/index.m3u8
-#EXTINF:-1 group-title="groupName=央视",CCTV-5HD
+#EXTINF:-1 group-title="央视",CCTV-5HD
 http://39.134.67.108/PLTV/88888888/224/3221225818/1.m3u8
-#EXTINF:-1 group-title="groupName=央视",CCTV-5+HD
+#EXTINF:-1 group-title="央视",CCTV-5+HD
 http://39.134.67.108/PLTV/88888888/224/3221225507/1.m3u8
-#EXTINF:-1 group-title="groupName=央视",CCTV-6HD
+#EXTINF:-1 group-title="央视",CCTV-6HD
 http://39.134.67.108/PLTV/88888888/224/3221225814/1.m3u8
-#EXTINF:-1 group-title="groupName=央视",CCTV-7HD
+#EXTINF:-1 group-title="央视",CCTV-7HD
 http://39.134.67.108/PLTV/88888888/224/3221225671/1.m3u8
-#EXTINF:-1 group-title="groupName=央视",CCTV-8HD
+#EXTINF:-1 group-title="央视",CCTV-8HD
 http://39.134.67.108/PLTV/88888888/224/3221225795/1.m3u8
-#EXTINF:-1 group-title="groupName=央视","CCTV-9HD
+#EXTINF:-1 group-title="央视","CCTV-9HD
 http://39.134.67.108/PLTV/88888888/224/3221225676/1.m3u8
-#EXTINF:-1 group-title="groupName=央视",CCTV-10HD
+#EXTINF:-1 group-title="央视",CCTV-10HD
 http://39.134.67.108/PLTV/88888888/224/3221225677/1.m3u8
-#EXTINF:-1 group-title="groupName=央视",CCTV-11HD
+#EXTINF:-1 group-title="央视",CCTV-11HD
 http://39.134.67.108/PLTV/88888888/224/3221225517/1.m3u8
-#EXTINF:-1 group-title="groupName=央视",CCTV-12HD
+#EXTINF:-1 group-title="央视",CCTV-12HD
 http://39.134.67.108/PLTV/88888888/224/3221225669/1.m3u8
-#EXTINF:-1 group-title="groupName=央视",CCTV-13HD
+#EXTINF:-1 group-title="央视",CCTV-13HD
 http://39.134.67.108/PLTV/88888888/224/3221225812/1.m3u8
-#EXTINF:-1 group-title="groupName=央视",CCTV-14HD
+#EXTINF:-1 group-title="央视",CCTV-14HD
 http://39.134.67.108/PLTV/88888888/224/3221225674/1.m3u8
-#EXTINF:-1 group-title="groupName=央视",CCTV-15HD
+#EXTINF:-1 group-title="央视",CCTV-15HD
 http://39.134.67.108/PLTV/88888888/224/3221225513/1.m3u8
-#EXTINF:-1 group-title="groupName=央视",CCTV-16HD
+#EXTINF:-1 group-title="央视",CCTV-16HD
 http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
-#EXTINF:-1 group-title="groupName=央视",CCTV-17HD
+#EXTINF:-1 group-title="央视",CCTV-17HD
 http://39.134.67.108/PLTV/88888888/224/3221225708/1.m3u8
-#EXTINF:-1 group-title="groupName=央视",CCTV-4K超高清
+#EXTINF:-1 group-title="央视",CCTV-4K超高清
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
-#EXTINF:-1 group-title="groupName=卫视",湖南卫视HD
-http://111.40.196.30/PLTV/88888888/224/3221225554/1.m3u8
-#EXTINF:-1 group-title="groupName=卫视",江苏卫视HD
+#EXTINF:-1 group-title="卫视",湖南卫视HD
+http://39.135.138.58:18890/ysten-businessmobile/live/hdhunanstv/1.m3u8
+#EXTINF:-1 group-title="卫视",江苏卫视HD
 http://39.134.67.108/PLTV/88888888/224/3221225938/1.m3u8
-#EXTINF:-1 group-title="groupName=卫视",浙江卫视HD
+#EXTINF:-1 group-title="卫视",浙江卫视HD
 http://39.134.67.108/PLTV/88888888/224/3221225959/1.m3u8
-#EXTINF:-1 group-title="groupName=卫视",东方卫视HD
+#EXTINF:-1 group-title="卫视",东方卫视HD
 http://39.134.67.108/PLTV/88888888/224/3221225942/1.m3u8
-#EXTINF:-1 group-title="groupName=卫视",广东卫视HD
+#EXTINF:-1 group-title="卫视",广东卫视HD
 http://39.134.67.108/PLTV/88888888/224/3221225966/1.m3u8
-#EXTINF:-1 group-title="groupName=卫视",深圳卫视HD
+#EXTINF:-1 group-title="卫视",深圳卫视HD
 http://39.134.67.108/PLTV/88888888/224/3221225943/1.m3u8
-#EXTINF:-1 group-title="groupName=卫视",北京卫视HD
+#EXTINF:-1 group-title="卫视",北京卫视HD
 http://39.134.67.108/PLTV/88888888/224/3221225931/1.m3u8
-#EXTINF:-1 group-title="groupName=卫视",天津卫视HD
+#EXTINF:-1 group-title="卫视",天津卫视HD
 http://39.134.67.108/PLTV/88888888/224/3221225972/1.m3u8
-#EXTINF:-1 group-title="groupName=卫视",山东卫视HD
+#EXTINF:-1 group-title="卫视",山东卫视HD
 http://39.134.67.108/PLTV/88888888/224/3221225952/1.m3u8
-#EXTINF:-1 group-title="groupName=卫视",湖北卫视HD
+#EXTINF:-1 group-title="卫视",湖北卫视HD
 http://39.134.67.108/PLTV/88888888/224/3221225975/1.m3u8
-#EXTINF:-1 group-title="groupName=卫视",黑龙江卫视HD
+#EXTINF:-1 group-title="卫视",黑龙江卫视HD
 http://111.40.196.30/PLTV/88888888/224/3221225544/1.m3u8
-#EXTINF:-1 group-title="groupName=卫视",河北卫视HD
+#EXTINF:-1 group-title="卫视",河北卫视HD
 http://39.134.67.108/PLTV/88888888/224/3221225961/1.m3u8
-#EXTINF:-1 group-title="groupName=卫视",辽宁卫视HD
+#EXTINF:-1 group-title="卫视",辽宁卫视HD
 http://111.20.35.103:6610/yinhe/2/ch00000090990000001296/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
-#EXTINF:-1 group-title="groupName=卫视",东南卫视HD
+#EXTINF:-1 group-title="卫视",东南卫视HD
 http://39.134.67.108/PLTV/88888888/224/3221225950/1.m3u8
-#EXTINF:-1 group-title="groupName=卫视",江西卫视HD
+#EXTINF:-1 group-title="卫视",江西卫视HD
 http://39.134.67.108/PLTV/88888888/224/3221225935/1.m3u8
-#EXTINF:-1 group-title="groupName=卫视",重庆卫视HD
+#EXTINF:-1 group-title="卫视",重庆卫视HD
 http://39.134.67.108/PLTV/88888888/224/3221225963/1.m3u8
-#EXTINF:-1 group-title="groupName=卫视",四川卫视HD
+#EXTINF:-1 group-title="卫视",四川卫视HD
 http://39.134.67.108/PLTV/88888888/224/3221225970/1.m3u8
-#EXTINF:-1 group-title="groupName=卫视",广西卫视HD
+#EXTINF:-1 group-title="卫视",广西卫视HD
 http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221226211/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="groupName=卫视",浙江钱江都市
+#EXTINF:-1 group-title="卫视",浙江钱江都市
 http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-#EXTINF:-1 group-title="groupName=卫视",浙江经济生活
+#EXTINF:-1 group-title="卫视",浙江经济生活
 http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-#EXTINF:-1 group-title="groupName=卫视",浙江教科影视
+#EXTINF:-1 group-title="卫视",浙江教科影视
 http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-#EXTINF:-1 group-title="groupName=卫视",浙江民生休闲
+#EXTINF:-1 group-title="卫视",浙江民生休闲
 http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-#EXTINF:-1 group-title="groupName=⚽体育",1場
-http://txtest-xp2p.p2p.huya.com/0-0-0-2199063580964-10057-A-0-1.xs
-#EXTINF:-1 group-title="groupName=⚽体育",2場
-http://txtest-xp2p.p2p.huya.com/0-0-0-2199063580966-10057-A-0-1.xs
-#EXTINF:-1 group-title="groupName=⚽体育",3場
-http://txtest-xp2p.p2p.huya.com/0-0-0-2199063580968-10057-A-0-1.xs
-#EXTINF:-1 group-title="groupName=⚽体育",4場
-http://txtest-xp2p.p2p.huya.com/0-0-0-2199063580970-10057-A-0-1.xs
-#EXTINF:-1 group-title="groupName=⚽体育",丁俊暉
-http://txtest-xp2p.p2p.huya.com/1447756352-1447756352-6218066184416264192-2895636160-10057-A-0-1.xs
-#EXTINF:-1 group-title="groupName=⚽体育",頂級大賽
-http://txtest-xp2p.p2p.huya.com/1099531728840-1099531728840-86333412494802944-2199063581136-10057-A-0-1.xs
-#EXTINF:-1 group-title="groupName=⚽体育",街波王子
-http://txtest-xp2p.p2p.huya.com/1099531739790-1099531739790-86380442386694144-2199063603036-10057-A-0-1.xs
-#EXTINF:-1 group-title="groupName=⚽体育",籃球3
-http://txtest-xp2p.p2p.huya.com/1859752418-1859752418-7987575813966921728-3719628292-10057-A-0-1.xs
-#EXTINF:-1 group-title="groupName=⚽体育",籃球5
-http://txtest-xp2p.p2p.huya.com/1099531739898-1099531739898-86380906243162112-2199063603252-10057-A-0-1.xs
-#EXTINF:-1 group-title="groupName=⚽体育",籃球7
-http://txtest-xp2p.p2p.huya.com/1099531739953-1099531739953-86381142466363392-2199063603362-10057-A-0-1.xs
-#EXTINF:-1 group-title="groupName=⚽体育",籃球8
-http://txtest-xp2p.p2p.huya.com/1099531739788-1099531739788-86380433796759552-2199063603032-10057-A-0-1.xs
-#EXTINF:-1 group-title="groupName=⚽体育",歐足2
-http://txtest-xp2p.p2p.huya.com/1099531740188-1099531740188-86382151783677952-2199063603832-10057-A-0-1.xs
-#EXTINF:-1 group-title="groupName=⚽体育",皮划艇
-http://txtest-xp2p.p2p.huya.com/1099531728523-1099531728523-86332050990170112-2199063580502-10057-A-0-1.xs
-#EXTINF:-1 group-title="groupName=⚽体育",拳擊
-http://txtest-xp2p.p2p.huya.com/0-0-0-2399123531982-10057-A-0-1.xs
-#EXTINF:-1 group-title="groupName=⚽体育",斯諾克
-http://txtest-xp2p.p2p.huya.com/1099531627777-1099531627777-85899350214967296-2199063379010-10057-A-0-1.xs
-#EXTINF:-1 group-title="groupName=⚽体育",斯諾克2
-http://txtest-xp2p.p2p.huya.com/1099531739995-1099531739995-86381322854989824-2199063603446-10057-A-0-1.xs
-#EXTINF:-1 group-title="groupName=⚽体育",羽
-http://phonetx.qing.mgtv.com/nn_live/nn_x64/cWlkPSZzPTc0Y2I1OWRhZmI3MDg0MDRiM2NjYmM4YmYzYTBkZDVjJmVzPTE2NTE5NDA1MTQmdXVpZD1iOTk0ZDQxZDA4N2ZlM
-#EXTINF:-1 group-title="groupName=⚽体育",足球
-http://txtest-xp2p.p2p.huya.com/1099531728511-1099531728511-86331999450562560-2199063580478-10057-A-0-1.xs
-#EXTINF:-1 group-title="groupName=⚽体育",足球1
-http://txtest-xp2p.p2p.huya.com/1099531739787-1099531739787-86380429501792256-2199063603030-10057-A-0-1.xs
-#EXTINF:-1 group-title="groupName=⚽体育",足球2
-http://txtest-xp2p.p2p.huya.com/1099531728837-1099531728837-86333399609901056-2199063581130-10057-A-0-1.xs
-#EXTINF:-1 group-title="groupName=⚽体育",足球3
-http://txtest-xp2p.p2p.huya.com/1099531728827-1099531728827-86333356660228096-2199063581110-10057-A-0-1.xs
-#EXTINF:-1 group-title="groupName=⚽体育",足球5
-http://txtest-xp2p.p2p.huya.com/1099531728828-1099531728828-86333360955195392-2199063581112-10057-A-0-1.xs
-#EXTINF:-1 group-title="groupName=⚽体育",足球7
-http://txtest-xp2p.p2p.huya.com/1199525662714-1199525662714-5281895504391700480-2399051448884-10057-A-0-1.xs
-#EXTINF:-1 group-title="groupName=⚽体育",MASFIGHT[640*360]
-http://txtest-xp2p.p2p.huya.com/1099531739833-1099531739833-86380627070287872-2199063603122-10057-A-0-1.xs
-#EXTINF:-1 group-title="groupName=⚽体育",RAW
-http://txtest-xp2p.p2p.huya.com/1099531728841-1099531728841-86333416789770240-2199063581138-10057-A-0-1.xs
-#EXTINF:-1 group-title="groupName=⚽体育",SD
-http://txtest-xp2p.p2p.huya.com/1099531728842-1099531728842-86333421084737536-2199063581140-10057-A-0-1.xs
 #EXTINF:-1,CCTV-5体育
 http://39.134.32.102:6610/270000001111/1110000305/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1,CCTV-5体育
