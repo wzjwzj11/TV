@@ -129,6 +129,8 @@ http://198.16.64.10:8278/hbohd_twn/playlist.m3u8?tid=ME9E5260921952609219&ct=192
 http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?ct=19225&tid=ME9E5260921952609219&tsum=a904cd480db106670befb11d14149fce
 #EXTINF:-1,NBA TV
 https://epg.pm/stream/ce0e07b728b447ad4c1724fa2132a8a93113d1f0e147b8f24b86127d291ffe2a.ctv
+#EXTINF:-1,WWE
+https://epg.pm/stream/d2ecbdbfb26172dc105041c9f3cb70db3b0f1fb35174e382f9abd711ee1f4f91.ctv
 #EXTINF:-1,HBO Family
 http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&tsum=bc4d3db9ca83c3765cc75512a1bbbbe3
 #EXTINF:-1,HBO Signature
