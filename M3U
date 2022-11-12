@@ -126,7 +126,7 @@ http://198.16.64.10:8278/hbosignature_twn/playlist.m3u8?tid=MC5C5754321157543211
 #EXTINF:-1,HBO HD
 http://198.16.64.10:8278/hbohd_twn/playlist.m3u8?tid=ME9E5260921952609219&ct=19225&tsum=a904cd480db106670befb11d14149fce
 #EXTINF:-1,H
-http://t6.cdn2020.com:12347/video/m3u8/2021/01/26/c5852197/index.m3u8
+http://t5.cdn2020.com:12346/video/m3u8/2020/11/18/d0ebad66/index.m3u8
 #EXTINF:-1,NBA TV
 https://epg.pm/stream/ce0e07b728b447ad4c1724fa2132a8a93113d1f0e147b8f24b86127d291ffe2a.ctv
 #EXTINF:-1,WWE
