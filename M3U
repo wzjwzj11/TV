@@ -179,6 +179,12 @@ http://tv.redrainl.site:9500/live.m3u8?c=11
 http://tv.redrainl.site:9500/live.m3u8?c=22
 #EXTINF:-1,鏡新聞
 http://tv.redrainl.site:9500/live.m3u8?c=28
+#EXTINF:-1,愛爾達1台
+http://www.best336699.com:1935/besttv/IR01.stream/chunklist_w1140575877.m3u8
+#EXTINF:-1,愛爾達2台
+http://www.best336699.com:1935/besttv/IR02.stream/media_w27854583_5615.m3u8
+#EXTINF:-1,愛爾達3台
+http://www.best336699.com:1935/besttv/IR03.stream/media_w669091355_112279.m3u8
 #EXTINF:-1,1号[1920*1080]
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 #EXTINF:-1,2号[1920*1080]
