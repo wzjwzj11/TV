@@ -9,6 +9,10 @@ http://39.134.67.108/PLTV/88888888/224/3221225799/1.m3u8
 http://39.135.138.58:18890/PLTV/88888888/224/3221225621/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-5HD
 http://39.134.67.108/PLTV/88888888/224/3221225818/1.m3u8
+#EXTINF:-1 group-title="央视",5體育
+https://pull-l3-cny.douyincdn.com/live/e98227c16857b6fb43bfd9a17cea43bb.m3u8
+#EXTINF:-1 group-title="央视",5+體育賽事
+https://pull-l3-cny.douyincdn.com/live/a380f555afa5912de73f6d2fec4eadd8.m3u8
 #EXTINF:-1 group-title="央视",CCTV-5+HD
 http://39.134.67.108/PLTV/88888888/224/3221225507/1.m3u8
 #EXTINF:-1 group-title="央视",CCTV-6HD
