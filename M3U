@@ -131,6 +131,10 @@ http://198.16.64.10:8278/hbosignature_twn/playlist.m3u8?tid=MC5C5754321157543211
 http://198.16.64.10:8278/hbohd_twn/playlist.m3u8?tid=ME9E5260921952609219&ct=19225&tsum=a904cd480db106670befb11d14149fce
 #EXTINF:-1,咪咕4k 50帧
 http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?hls
+#EXTINF:-1,抖音
+https://pull-spe-l3.douyinliving.com/fantasy/stream-112027937376567990_spuhd.flv?_neptune_token=MIGnBAzlORVYCbZS-ZZ3E7EEgYSaQfx-ZbG6uiuL3MyvRmO4CNzvwSmaXI0xkcUZ5VNGqUbFgt0gmiKKPNMTnFn9GmcFqBcsj1K76VEloMGfHmtH19Bx0YsPFGxw1XHrMkjMcz3KnASDq-gwSWCZKKiluxMraxsxYB4zfHq8CpPT0FZEleRjrFR4K7ebddf0G3MePzG5hJQEELxi56vwodSFlSDctJi0xFM&auth_key=1669465277-0-0-bc3c6cad65a18f4aebc7c0e7323add19&abr_pts=-1800
+#EXTINF:-1,抖音央视频
+https://pull-hls-spe-l11.douyinliving.com/fantasy/stream-112027937376567990_spuhd.m3u8?_neptune_token=MIGmBAx26Cj7a8eRAZYcj1gEgYNkpVGu4dJyD5DyL2a67Bzf1UIBUy5hZqMysV_0ioJDcUTP2hAwFKYr57XgumIaTkit9ZxlHAi3nl0XqSal4DDMtB_bjwZIVF6pGeeuRDNweOrFzpJ3Nl7Xt-sWvDQaInbmYmTBqi0XbJMMHKCRcCaPlXkA9YuWnQ_8uAl_Xxa370H4GgQQnGxUFe_K5s9t18mzyCUgOw&expire=1669466083&sign=df1dd327eb97cd4dffd61bd8f891c8cb&fr=wem&ten=416f529d413357685a88508d4d77547b5f10536df5042524b4b951e622
 #EXTINF:-1,NBA TV
 https://epg.pm/stream/ce0e07b728b447ad4c1724fa2132a8a93113d1f0e147b8f24b86127d291ffe2a.ctv
 #EXTINF:-1,WWE
