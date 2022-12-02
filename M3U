@@ -1116,7 +1116,39 @@ http://ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="4K频道",CCTV4K 16M2160
 http://ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="4K频道",CCTV16-4K 18M2160
-http://ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="4K频道",CCTV16-4K 25M2160 http://ott.mobaibox.com/PLTV/3/224/3221228168/index.m3u8 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="4K频道",CCTV16-4K 34M2160HLG http://ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8 #EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="4K频道",SiTV欢笑剧场 12M2160 http://ott.mobaibox.com/PLTV/3/224/3221227715/index.m3u8 #EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://epg.112114.xyz/logo/纯享4K.png" group-title="4K频道",纯享4K 25M2160HDR http://ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8 #EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://epg.112114.xyz/logo/纯享4K.png" group-title="4K频道",纯享4K 16M2160 http://ott.mobaibox.com/PLTV/3/224/3221227506/index.m3u8 #EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://epg.112114.xyz/logo/纯享4K.png" group-title="4K频道",纯享4K 30M2160HLG http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K修复.png" group-title="4K频道",4K修复 7M2160HEVC http://ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="谷豆精品系列",CCTV16-4K50P-HLG http://159.75.85.63:5828/gudou.php?id=4010 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVENT.png" group-title="谷豆精品系列",广东综艺-4K50P-HLG http://159.75.85.63:5828/gudou.php?id=GDZYHD4K_38000 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="谷豆精品系列",CCTV-4K50P-HLG http://159.75.85.63:5828/gudou.php?id=4005 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="谷豆精品系列",广东体育HD http://159.75.85.63:5828/gudou.php?id=gdsportsHD_7000 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="谷豆精品系列",CCTV5HD http://159.75.85.63:5828/gudou.php?id=CCTV5HD_7000 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="谷豆精品系列",凤凰中文 http://159.75.85.63:5828/gudou.php?id=fhzw_1500 #EXTINF:-1 tvg-logo="https://pix1.tvzhe.com/images/logo/channel/XINGKONG1/XINGKONG1.jpg" group-title="谷豆精品系列",星空卫视 http://159.75.85.63:5828/gudou.php?id=xingkong_1500 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="谷豆精品系列",翡翠台HD http://159.75.85.63:5828/gudou.php?id=1350_4500 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png" group-title="谷豆精品系列",明珠台HD http://159.75.85.63:5828/gudou.php?id=1351_4500
+http://ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="4K频道",CCTV16-4K 25M2160
+http://ott.mobaibox.com/PLTV/3/224/3221228168/index.m3u8
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="4K频道",CCTV16-4K 34M2160HLG
+http://ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
+#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="4K频道",SiTV欢笑剧场 12M2160
+http://ott.mobaibox.com/PLTV/3/224/3221227715/index.m3u8
+#EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://epg.112114.xyz/logo/纯享4K.png" group-title="4K频道",纯享4K 25M2160HDR
+http://ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
+#EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://epg.112114.xyz/logo/纯享4K.png" group-title="4K频道",纯享4K 16M2160
+http://ott.mobaibox.com/PLTV/3/224/3221227506/index.m3u8
+#EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://epg.112114.xyz/logo/纯享4K.png" group-title="4K频道",纯享4K 30M2160HLG
+http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K修复.png" group-title="4K频道",4K修复 7M2160HEVC
+http://ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="谷豆精品系列",CCTV16-4K50P-HLG
+http://159.75.85.63:5828/gudou.php?id=4010
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVENT.png" group-title="谷豆精品系列",广东综艺-4K50P-HLG
+http://159.75.85.63:5828/gudou.php?id=GDZYHD4K_38000
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="谷豆精品系列",CCTV-4K50P-HLG
+http://159.75.85.63:5828/gudou.php?id=4005
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="谷豆精品系列",广东体育HD
+http://159.75.85.63:5828/gudou.php?id=gdsportsHD_7000
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="谷豆精品系列",CCTV5HD
+http://159.75.85.63:5828/gudou.php?id=CCTV5HD_7000
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="谷豆精品系列",凤凰中文
+http://159.75.85.63:5828/gudou.php?id=fhzw_1500
+#EXTINF:-1 tvg-logo="https://pix1.tvzhe.com/images/logo/channel/XINGKONG1/XINGKONG1.jpg" group-title="谷豆精品系列",星空卫视
+http://159.75.85.63:5828/gudou.php?id=xingkong_1500
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="谷豆精品系列",翡翠台HD
+http://159.75.85.63:5828/gudou.php?id=1350_4500
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png" group-title="谷豆精品系列",明珠台HD
+http://159.75.85.63:5828/gudou.php?id=1351_4500
 #EXTINF:-1 group-title="频道",玩家频道
 https://315600.xyz/hatv.php?id=401
 #EXTINF:-1 group-title="频道",HAPPY
