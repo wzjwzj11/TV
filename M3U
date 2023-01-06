@@ -2,7 +2,7 @@
 #EXTINF:-1 group-title="央视",CCTV-1HD
 http://39.134.67.108/PLTV/88888888/224/3221225734/1.m3u8
 #EXTINF:-1 group-title="央视",CCTV-2HD
-http://39.134.32.102:6610/270000001111/1110000302/index.m3u8?IASHttpSessionId=OTT
+http://www.cyop.eu.org:4022/udp/238.1.78.235:7752
 #EXTINF:-1 group-title="央视",CCTV-3HD
 http://39.134.67.108/PLTV/88888888/224/3221225799/1.m3u8
 #EXTINF:-1 group-title="央视",CCTV-4HD
@@ -17,7 +17,7 @@ http://39.134.67.108/PLTV/88888888/224/3221225814/1.m3u8
 http://39.134.67.108/PLTV/88888888/224/3221225671/1.m3u8
 #EXTINF:-1 group-title="央视",CCTV-8HD
 http://39.134.67.108/PLTV/88888888/224/3221225795/1.m3u8
-#EXTINF:-1 group-title="央视","CCTV-9HD
+#EXTINF:-1 group-title="央视",CCTV-9HD
 http://39.134.67.108/PLTV/88888888/224/3221225676/1.m3u8
 #EXTINF:-1 group-title="央视",CCTV-10HD
 http://39.134.67.108/PLTV/88888888/224/3221225677/1.m3u8
@@ -38,7 +38,7 @@ http://39.134.67.108/PLTV/88888888/224/3221225708/1.m3u8
 #EXTINF:-1 group-title="央视",CCTV-4K超高清
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 #EXTINF:-1 group-title="卫视",湖南卫视HD
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225704/index.m3u8
+http://www.cyop.eu.org:4022/udp/238.1.78.160:7152
 #EXTINF:-1 group-title="卫视",江苏卫视HD
 http://39.134.67.108/PLTV/88888888/224/3221225938/1.m3u8
 #EXTINF:-1 group-title="卫视",浙江卫视HD
@@ -1013,29 +1013,4 @@ http://159.75.85.63:5828/gudou.php?id=xingkong_1500
 http://159.75.85.63:5828/gudou.php?id=1350_4500
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png" group-title="谷豆精品系列",明珠台HD
 http://159.75.85.63:5828/gudou.php?id=1351_4500
-#EXTINF:-1 group-title="频道",玩家频道
-https://315600.xyz/hatv.php?id=401
-#EXTINF:-1 group-title="频道",HAPPY
-https://315600.xyz/hatv.php?id=402
-#EXTINF:-1 group-title="频道",HOT
-https://315600.xyz/hatv.php?id=403
-#EXTINF:-1 group-title="频道",松视4
-https://315600.xyz/hatv.php?id=404
-#EXTINF:-1 group-title="频道",松视1
-https://315600.xyz/hatv.php?id=405
-#EXTINF:-1 group-title="频道",松视2
-https://315600.xyz/hatv.php?id=406
-#EXTINF:-1 group-title="频道",松视3
-https://315600.xyz/hatv.php?id=407
-#EXTINF:-1 group-title="频道",彩虹频道
-https://315600.xyz/hatv.php?id=408
-#EXTINF:-1 group-title="频道",樂活频道
-https://315600.xyz/hatv.php?id=410
-#EXTINF:-1 group-title="频道",潘朵拉玩美
-https://315600.xyz/hatv.php?id=411
-#EXTINF:-1 group-title="频道",潘朵拉粉紅
-https://315600.xyz/hatv.php?id=412
-#EXTINF:-1 group-title="频道",驚豔台
-https://315600.xyz/hatv.php?id=413
-#EXTINF:-1 group-title="频道",香蕉台
-https://315600.xyz/hatv.php?id=414
+
