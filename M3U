@@ -1045,3 +1045,31 @@ http://iptv.cooltv.top/tv/hz.php?id=21
 http://iptv.cooltv.top/tv/hz.php?id=20
 #EXTINF:-1 group-title="秒播",杭州导视
 http://iptv.cooltv.top/tv/hz.php?id=22
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽️ASIA•SUKAN",Hub.Premier.2.uhd
+http://shareext@clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=348096&extension=ts&play_token=JriqBmW8MR
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽️ASIA•SUKAN",Hub.premier.1
+http://shareext@clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=348097&extension=ts&play_token=JriqBmW8MR
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽️ASIA•SUKAN",Hub premier.2
+http://shareext@clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=348098&extension=ts&play_token=JriqBmW8MR
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽️ASIA•SUKAN",Hub.premier.3
+http://shareext@clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=348099&extension=ts&play_token=JriqBmW8MR
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽️ASIA•SUKAN",Hub.premier.4
+http://shareext@clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=348100&extension=ts&play_token=JriqBmW8MR
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽️ASIA•SUKAN",Hub.premier.5
+http://shareext@clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=348101&extension=ts&play_token=JriqBmW8MR
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽️ASIA•SUKAN",Hub.premier.6
+http://shareext@clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=348102&extension=ts&play_token=JriqBmW8MR
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽️ASIA•SUKAN",Hub.premier.7
+http://shareext@clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=348103&extension=ts&play_token=JriqBmW8MR
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽️ASIA•SUKAN",Hub.premier.8
+http://shareext@clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=348104&extension=ts&play_token=JriqBmW8MR
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽️ASIA•SUKAN",Hub.premier.9
+http://shareext@clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=348105&extension=ts&play_token=JriqBmW8MR
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽️ASIA•SUKAN",Hub.premier.10
+http://shareext@clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=348106&extension=ts&play_token=JriqBmW8MR
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽️ASIA•SUKAN",Hub.premier.11
+http://shareext@clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=348107&extension=ts&play_token=JriqBmW8MR
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽️ASIA•SUKAN",Now.Sports.4k.1
+http://shareext@clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=117957&extension=ts&play_token=JriqBmW8MR
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽️ASIA•SUKAN",Flow.Sports.premier.liga
+http://shareext@clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=28096&extension=ts&play_token=JriqBmW8MR
