@@ -1031,20 +1031,6 @@ http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?zzhed
 http://hw-m-l.cztv.com/channels/lantian/channel10/720p.m3u8?zzhed
 #EXTINF:-1 group-title="秒播",浙江国际
 http://hw-m-l.cztv.com/channels/lantian/channel10/360p.m3u8?zzhed
-#EXTINF:-1 group-title="秒播",数码时代
-http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8?zzhed
-#EXTINF:-1 group-title="秒播",数码时代
-http://hw-m-l.cztv.com/channels/lantian/channel12/720p.m3u8?zzhed
-#EXTINF:-1 group-title="秒播",数码时代
-http://hw-m-l.cztv.com/channels/lantian/channel12/360p.m3u8?zzhed
-#EXTINF:-1 group-title="秒播",杭州综合
-http://iptv.cooltv.top/tv/hz.php?id=16
-#EXTINF:-1 group-title="秒播",杭州影视
-http://iptv.cooltv.top/tv/hz.php?id=21
-#EXTINF:-1 group-title="秒播",杭州青少体育
-http://iptv.cooltv.top/tv/hz.php?id=20
-#EXTINF:-1 group-title="秒播",杭州导视
-http://iptv.cooltv.top/tv/hz.php?id=22
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽️ASIA•SUKAN",Hub.Premier.2.uhd
 http://shareext@clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=348096&extension=ts&play_token=JriqBmW8MR
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽️ASIA•SUKAN",Hub.premier.1
@@ -1073,3 +1059,7 @@ http://shareext@clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=348
 http://shareext@clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=117957&extension=ts&play_token=JriqBmW8MR
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽️ASIA•SUKAN",Flow.Sports.premier.liga
 http://shareext@clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=28096&extension=ts&play_token=JriqBmW8MR
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",﻿凤凰资讯
+https://live.v1.mk/api/sxg.php?id=test2_4000
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文
+https://live.v1.mk/api/sxg.php?id=test1_4000
