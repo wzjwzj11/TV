@@ -153,6 +153,12 @@ http://9.zhxinda.xyz/newss.php?id=2
 https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8?blog.ntnas.top
 #EXTINF:-1,香港RTHK32 HD
 https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8?blog.ntnas.top
+#EXTINF:-1,港台電視31
+https://cdn.hklive.tv/xxxx/31/index.m3u8
+#EXTINF:-1,港台電視32
+https://cdn.hklive.tv/xxxx/32/index.m3u8
+#EXTINF:-1,港台電視33
+https://cdn.hklive.tv/xxxx/33/index.m3u8
 #EXTINF:-1,星空卫视@@2[720x576][h264xaac]
 https://epg.pm/stream/e34f059c6c1827a1d4c4eb05e4187977ab8fb6ae477c3fb77c95cd208dde5b79.php
 #EXTINF:-1,緯來日本
