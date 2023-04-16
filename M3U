@@ -1061,7 +1061,5 @@ http://shareext@clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=348
 http://shareext@clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=117957&extension=ts&play_token=JriqBmW8MR
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽️ASIA•SUKAN",Flow.Sports.premier.liga
 http://shareext@clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=28096&extension=ts&play_token=JriqBmW8MR
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",﻿凤凰资讯
-https://live.v1.mk/api/sxg.php?id=test2_4000
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文
-https://live.v1.mk/api/sxg.php?id=test1_4000
+#EXTINF:-1 group-title="NBA",1
+http://ds1.sportea.online/stream/ch80/index.fmp4.m3u8
