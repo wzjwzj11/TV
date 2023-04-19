@@ -1105,6 +1105,9 @@ https://epg.pw/stream/f1105d30b197efa3bdab724bffee4d5aadfdcdad70fe09f8c6f224970b
 https://epg.pw/stream/1dca6fe7bd392fd38664679fee2bdd491ad508122325da8c45c090f4591b5924.m3u8
 #EXTINF:-1 group-title="電影台",hbo hd@@7[1920x1080][2.0mb][geo-limited]
 https://epg.pw/stream/1b63b82145c061590883f886255315479dcce4002977d64224c51ffd7dcc806f.m3u8
+#EXT-X-APP APTV
+#EXT-X-APTV-TYPE xtream
+#EXT-X-XC-URL http://45.90.105.74:25461?username=bbv1&password=4QKmSRxShA
 #EXTINF:-1 tvg-id="2066" tvg-name="NBA: TrailBlazers" tvg-logo="https://panel.budtv-ultra.com/posters/1670787514580.png" group-title="NBA",NBA: TrailBlazers
 http://45.90.105.74:25461/bbv1/4QKmSRxShA/2066
 #EXTINF:-1 tvg-id="2086" tvg-name="NBA: Thunder" tvg-logo="https://panel.budtv-ultra.com/posters/1670788085177.png" group-title="NBA",NBA: Thunder
