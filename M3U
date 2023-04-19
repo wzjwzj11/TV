@@ -1061,3 +1061,47 @@ http://shareext@clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=348
 http://shareext@clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=117957&extension=ts&play_token=JriqBmW8MR
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SHAREEXT@⚽️ASIA•SUKAN",Flow.Sports.premier.liga
 http://shareext@clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=28096&extension=ts&play_token=JriqBmW8MR
+#EXTINF:-1 group-title="電影台",星衛hd電影@@5[1280x720][h264xaac]
+https://epg.pw/stream/f8f4af660fca9e379d343d0b8eee7b11ed2387261bc2888e16a55373f16e8ef5.m3u8
+#EXTINF:-1 group-title="電影台",龍祥電影@@7[1920x1080][1.0mb][geo-limited]
+https://epg.pw/stream/b7ef686d91b8746f89114de71163b0a358eaefda7bfe469a286d9b0adefe6b18.m3u8
+#EXTINF:-1 group-title="電影台",美亞電影[1280x720][3.0mb][geo-limited]
+https://epg.pw/stream/a3bc84227079241a67196b79f3d90384036fe9fe731c31c17ec59c278e1aeeb5.m3u8
+#EXTINF:-1 group-title="電影台",美亞電影@@1[1280x720][3.0mb][geo-limited]
+https://epg.pw/stream/42fef13b569198db1d508f4272e0769c3fed1dc5fd4fcdca995a8531bd979d57.m3u8
+#EXTINF:-1 group-title="電影台",美亞電影@@2[1280x720][3.0mb][geo-limited]
+https://epg.pw/stream/cafcb0326b0899c2be41e470db528a64e5ddbbd1e4c3a9898bd99b78b22f93ce.m3u8
+#EXTINF:-1 group-title="電影台",美亞電影@@3[1280x720][3.0mb][geo-limited]
+https://epg.pw/stream/509c08f54c80aff2a8e23438043a612249a66fb054f9e036153eea54349e20ea.m3u8
+#EXTINF:-1 group-title="電影台",天映經典@@12[640x480][2.0mb][geo-limited]
+https://epg.pw/stream/45b1c16c5995f554090bc43d30ae24f766bbea0a95efa44a534b87f94302066d.m3u8
+#EXTINF:-1 group-title="電影台",天映頻道@@2[854x480][1.0mb][geo-limited]
+https://epg.pw/stream/03e8a935c1646f10ea36804315a7928c1da42b2b3b101f5d80b3e33039cabf02.m3u8
+#EXTINF:-1 group-title="電影台",湖南電影[1280x720][1.0mb][geo-limited]
+https://epg.pw/stream/6b7bb4f230cd237fb42263c7bb0ce3b2c54b8a59648db425d20c01bd8c78f77c.ctv
+#EXTINF:-1 group-title="電影台",axn台灣[1920x1080][2.0mb][geo-limited]
+https://epg.pw/stream/c559d1a8812da9564657e62bf1f132f2a5261c7372fcc995ed870ec6b96eac8d.m3u8
+#EXTINF:-1 group-title="電影台",axn台灣@@1[1920x1080][2.0mb][geo-limited]
+https://epg.pw/stream/dccad441248377e7eca62b0a44a5a469886c922efc1f2d6d8caf19f7aa246fbb.m3u8
+#EXTINF:-1 group-title="電影台",axn台灣@@2[1920x1080][2.0mb][geo-limited]
+https://epg.pw/stream/e21143a1a47188b3d18dd7a9816879d78033ba6bfb2d663db9079a3b020176ca.m3u8
+#EXTINF:-1 group-title="電影台",axn台灣@@4[1920x1080][2.0mb][geo-limited]
+https://epg.pw/stream/b0cd793c681e498739b654b39c2cf596bc61a541f8cc2d519f3ff9785bf6182f.m3u8
+#EXTINF:-1 group-title="電影台",湖南電影@@5[1920x1080][13.0mb][geo-limited]
+https://epg.pw/stream/2d0d2673872e143d9eddc43d409b2da1e79fa551dcc74df51f6d14aeee533346.m3u8
+#EXTINF:-1 group-title="電影台",美亞電影@@4[1280x720][h264xaac]
+https://epg.pw/stream/062e2e180d3a53e51e5b7e05a15a035bfab65e0bbc3fe179e89a45332603803e.m3u8
+#EXTINF:-1 group-title="電影台",hbo@@1[1920x1080][3.0mb]
+https://epg.pw/stream/6e8bf010186e48f7acfc7dab0c71037f34dc27bf9a1fdcc18a470e3394dd9326.m3u8
+#EXTINF:-1 group-title="電影台",hbo hd@@2[1920x1080][2.0mb][geo-limited]
+https://epg.pw/stream/ef2e45f0ba524689fd9ff71eee0c632689ae9fb8f6a7c0799f0225627d4e8b9a.m3u8
+#EXTINF:-1 group-title="電影台",hbo hd@@3[1920x1080][2.0mb][geo-limited]
+https://epg.pw/stream/6cad49ad7514cb24cbd3bf18f0f9c2c0f96b7309630ac4d70d812b39b408e1ae.m3u8
+#EXTINF:-1 group-title="電影台",hbo hd@@4[1920x1080][2.0mb][geo-limited]
+https://epg.pw/stream/ff1734cb94d7c9e386cbe1ebcba9aeb4c026d64aaa8654831f7cba85385732a3.m3u8
+#EXTINF:-1 group-title="電影台",hbo hd@@5[1920x1080][2.0mb][geo-limited]
+https://epg.pw/stream/f1105d30b197efa3bdab724bffee4d5aadfdcdad70fe09f8c6f224970bee95dc.m3u8
+#EXTINF:-1 group-title="電影台",hbo hd@@6[1920x1080][2.0mb][geo-limited]
+https://epg.pw/stream/1dca6fe7bd392fd38664679fee2bdd491ad508122325da8c45c090f4591b5924.m3u8
+#EXTINF:-1 group-title="電影台",hbo hd@@7[1920x1080][2.0mb][geo-limited]
+https://epg.pw/stream/1b63b82145c061590883f886255315479dcce4002977d64224c51ffd7dcc806f.m3u8
