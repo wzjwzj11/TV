@@ -817,6 +817,14 @@ http://143.244.60.97/NBATV/index.m3u8
 http://45.90.105.74:25461/bbv1/4QKmSRxShA/39730
 #EXTINF:-1,tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://logos.xbots.com.mx/168.png" group-title="体育",ESPN
 http://45.90.105.74:25461/bbv1/4QKmSRxShA/2258
+#EXTINF:-1 group-title="体育",sport1
+http://84.17.61.203:8086/udp/238.2.25.79:1234
+#EXTINF:-1 group-title="体育",sport2
+http://84.17.61.203:8086/udp/238.2.25.78:1234
+#EXTINF:-1 group-title="体育",sport3
+http://84.17.61.203:8086/udp/238.2.25.90:1234
+#EXTINF:-1 group-title="体育",sport4
+http://84.17.61.203:8086/udp/238.2.27.151:1234
 #EXTINF:-1 tvg-logo="" group-title="咪咕",咪咕直播-1
 http://39.136.33.66:6610/000000001001/3000000001000005308/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=3
 #EXTINF:-1 tvg-logo="" group-title="咪咕",咪咕直播-2
