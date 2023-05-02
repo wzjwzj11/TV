@@ -79,6 +79,10 @@ http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 #EXTINF:-1 group-title="卫视",浙江民生休闲
 http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+#EXTINF:-1 group-title="卫视",凤凰卫视资讯台@@2[1920x1080][20230331]
+https://epg.pw/stream/feef91f40b85dafbfec7b968db0c1fc20f8fafdbbef2dfd751cfbcfd51f6ea5d.m3u8
+#EXTINF:-1 group-title="卫视",凤凰卫视中文台@@1[1920x1080][20230331]
+https://epg.pw/stream/9d3ae35ac5340698211b15afabadf8d01cadfd8f2e804854fe854eb39412924a.m3u8
 #EXTINF:-1,CCTV-5体育
 http://39.134.32.102:6610/270000001111/1110000305/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1,CCTV-5体育
