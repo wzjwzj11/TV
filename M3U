@@ -213,8 +213,6 @@ http://143.244.60.97/NBATV/index.m3u8
 http://45.90.105.74:25461/bbv1/4QKmSRxShA/39730
 #EXTINF:-1,tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://logos.xbots.com.mx/168.png" group-title="体育",ESPN
 http://45.90.105.74:25461/bbv1/4QKmSRxShA/2258
-#EXTINF:-1  group-title="体育",鲸鱼
-http://bp-livenba.bestv.cn/live/bestvnbaxjyjs_enhance265.m3u8?auth_key=1683478805-d168a0d78d6d45da8bc2f09e38db41f3-0-cd32c675c6cce6a6a4cb1072bfd616c0
 #EXTINF:-1 group-title="体育",sport1
 http://84.17.61.203:8086/udp/238.2.25.79:1234
 #EXTINF:-1 group-title="体育",sport2
@@ -623,3 +621,5 @@ https://epg.pw/stream/f1105d30b197efa3bdab724bffee4d5aadfdcdad70fe09f8c6f224970b
 https://epg.pw/stream/1dca6fe7bd392fd38664679fee2bdd491ad508122325da8c45c090f4591b5924.m3u8
 #EXTINF:-1 group-title="電影台",hbo hd@@7[1920x1080][2.0mb][geo-limited]
 https://epg.pw/stream/1b63b82145c061590883f886255315479dcce4002977d64224c51ffd7dcc806f.m3u8
+#EXTINF:-1 group-title="電影台",可樂電影
+http://epg.112114.xyz/douyu/20415
