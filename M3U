@@ -210,7 +210,7 @@ http://111.31.106.45/downlive.brtvcloud.com/brtv8kapptv/brtv8kappxinwen.m3u8
 #EXTINF:-1,tvg-id="NBA" tvg-name="NBA" tvg-logo="http://www.2456788.com/tvicon/nba.png" group-title="体育",NBA
 http://143.244.60.97/NBATV/index.m3u8
 #EXTINF:-1,tvg-id="TNT" tvg-name="TNT" tvg-logo="https://panel.budtv-ultra.com/posters/1643411853516.png" group-title="体育",TNT
-http://45.90.105.74:25461/bbv1/4QKmSRxShA/39730
+http://143.244.60.97/TNT/index.m3u8
 #EXTINF:-1,tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://logos.xbots.com.mx/168.png" group-title="体育",ESPN
 https://pull-l3-cny.douyincdn.com/live/YesLiveTV-50aa7dfa-29ff-4169-ac88-d215042eb526.m3u8
 #EXTINF:-1 group-title="体育",纬来
