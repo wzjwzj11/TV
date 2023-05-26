@@ -212,7 +212,7 @@ http://143.244.60.97/NBATV/index.m3u8
 #EXTINF:-1,tvg-id="TNT" tvg-name="TNT" tvg-logo="https://panel.budtv-ultra.com/posters/1643411853516.png" group-title="体育",TNT
 http://143.244.60.97/TNT/index.m3u8
 #EXTINF:-1,tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://logos.xbots.com.mx/168.png" group-title="体育",ESPN
-https://pull-l3-cny.douyincdn.com/live/YesLiveTV-50aa7dfa-29ff-4169-ac88-d215042eb526.m3u8
+http://nocable.cc:8080/lilly1/lilly1/14197
 #EXTINF:-1 group-title="体育",纬来
 https://hdl.szsummer.cn/live/446035.flv?t=1840341130&k=82247f3ddb1d553b68e52eb3e3aa0ad5
 #EXTINF:-1 group-title="体育",sport1
