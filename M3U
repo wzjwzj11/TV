@@ -215,6 +215,8 @@ http://143.244.60.97/TNT/index.m3u8
 http://nocable.cc:8080/lilly1/lilly1/14197
 #EXTINF:-1 group-title="体育",纬来
 https://hdl.szsummer.cn/live/446035.flv?t=1840341130&k=82247f3ddb1d553b68e52eb3e3aa0ad5
+#EXTINF:-1 group-title="体育",爱达尔60高帧
+http://146.56.133.220:8080/dwd/index.m3u8
 #EXTINF:-1 group-title="体育",sport1
 http://84.17.61.203:8086/udp/238.2.25.79:1234
 #EXTINF:-1 group-title="体育",sport2
