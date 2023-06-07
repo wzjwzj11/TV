@@ -111,6 +111,14 @@ http://183.129.242.178:3333/tsfile/live/1012_1.m3u8
 http://183.129.242.178:3333/tsfile/live/1013_1.m3u8
 #EXTINF:-1 group-title="浙江",宁波-5
 http://183.129.242.178:3333/tsfile/live/1014_1.m3u8
+#EXTINF:-1 group-title="上海",上海新闻综合
+http://cs.iptv6.top/shds.php?id=shxwzh
+#EXTINF:-1 group-title="上海",上海ICS
+http://cs.iptv6.top/shds.php?id=shics
+#EXTINF:-1 group-title="上海",上海都市
+http://cs.iptv6.top/shds.php?id=shds
+#EXTINF:-1 group-title="上海",上海纪实人文
+http://cs.iptv6.top/shds.php?id=jsrw
 #EXTINF:-1,CCTV-5体育
 http://39.134.32.102:6610/270000001111/1110000305/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1,CCTV-5体育
@@ -171,8 +179,6 @@ https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
 #EXTINF:-1,爆谷台
 https://dispatch.ulivetv.net/v/live/cmkuxl1hp4n4.m3u8?stream_id=cmkuxl1hp4n4&timestamp=1685603773&rand=phF8DysBix&uuid=9b647b3816b2a66a&from=web&sign=d79d3e7ff85eed0608640691bcbc9e2f
-#EXTINF:-1,星影台
-http://pull-l3-cny.douyincdn.com/live/lKVn1BVY9Cyd024tDbsMRphM1zI3Lyxs.flv 
 #EXTINF:-1,国家地理野生
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 #EXTINF:-1,tvg-id="NBA" tvg-name="NBA" tvg-logo="http://www.2456788.com/tvicon/nba.png" group-title="体育",NBA
@@ -183,88 +189,6 @@ http://143.244.60.97/TNT/index.m3u8
 http://nocable.cc:8080/lilly1/lilly1/14197
 #EXTINF:-1 group-title="体育",纬来
 https://hdl.szsummer.cn/live/446035.flv?t=1840341130&k=82247f3ddb1d553b68e52eb3e3aa0ad5
-#EXTINF:-1 group-title="体育",爱达尔60高帧
-http://146.56.133.220:8080/dwd/index.m3u8
-#EXTINF:-1 group-title="百视通体育",百视通1
-http://39.134.136.161:6610/000000001000/5000000001000001116/index.m3u8?channel-id=bestzb&Contentid=5000000001000001116&livemode=1&stbId=3$ITV
-#EXTINF:-1 group-title="百视通体育",百视通2
-http://39.134.136.161:6610/000000001000/5000000001000002898/index.m3u8?channel-id=bestzb&Contentid=5000000001000002898&livemode=1&stbId=3$ITV
-#EXTINF:-1 group-title="百视通体育",百视通3
-http://39.134.136.161:6610/000000001000/5000000001000004876/index.m3u8?channel-id=bestzb&Contentid=5000000001000004876&livemode=1&stbId=3$ITV
-#EXTINF:-1 group-title="百视通体育",百视通4
-http://39.134.136.161:6610/000000001000/5000000001000004953/index.m3u8?channel-id=bestzb&Contentid=5000000001000004953&livemode=1&stbId=3$ITV
-#EXTINF:-1 group-title="百视通体育",百视通5
-http://39.134.136.161:6610/000000001000/5000000001000006777/index.m3u8?channel-id=bestzb&Contentid=5000000001000006777&livemode=1&stbId=3$ITV
-#EXTINF:-1 group-title="百视通体育",百视通6
-http://39.134.136.161:6610/000000001000/5000000001000017342/index.m3u8?channel-id=bestzb&Contentid=5000000001000017342&livemode=1&stbId=3$ITV
-#EXTINF:-1 group-title="百视通体育",百视通7
-http://39.134.136.161:6610/000000001000/5000000001000018009/index.m3u8?channel-id=bestzb&Contentid=5000000001000018009&livemode=1&stbId=3$ITV
-#EXTINF:-1 group-title="百视通体育",百视通8
-http://39.134.136.161:6610/000000001000/5000000001000019233/index.m3u8?channel-id=bestzb&Contentid=5000000001000019233&livemode=1&stbId=3$ITV
-#EXTINF:-1 group-title="百视通体育",百视通9
-http://39.134.136.161:6610/000000001000/5000000001000022620/index.m3u8?channel-id=bestzb&Contentid=5000000001000022620&livemode=1&stbId=3$ITV
-#EXTINF:-1 group-title="百视通体育",百视通10
-http://39.134.136.161:6610/000000001000/5000000001000023256/index.m3u8?channel-id=bestzb&Contentid=5000000001000023256&livemode=1&stbId=3$ITV
-#EXTINF:-1 group-title="百视通体育",百视通11
-http://39.134.136.161:6610/000000001000/5000000001000026930/index.m3u8?channel-id=bestzb&Contentid=5000000001000026930&livemode=1&stbId=3$ITV
-#EXTINF:-1 group-title="百视通体育",百视通12
-http://39.134.136.161:6610/000000001000/2000000002000000024/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000024&livemode=1&stbId=3$ITV
-#EXTINF:-1 group-title="百视通体育",百视通13
-http://39.134.136.161:6610/000000001000/2000000002000000025/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000025&livemode=1&stbId=3$ITV
-#EXTINF:-1 group-title="百视通体育",百视通14
-http://39.134.136.161:6610/000000001000/2000000002000000026/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000026&livemode=1&stbId=3$ITV
-#EXTINF:-1 group-title="百视通体育",百视通15
-http://39.134.136.161:6610/000000001000/2000000002000000027/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000027&livemode=1&stbId=3$ITV
-#EXTINF:-1 group-title="百视通体育",百视通16
-http://39.134.136.161:6610/000000001000/2000000002000000028/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000028&livemode=1&stbId=3$ITV
-#EXTINF:-1 group-title="百视通体育",百视通17
-http://39.134.136.161:6610/000000001000/2000000002000000029/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000029&livemode=1&stbId=3$ITV
-#EXTINF:-1 group-title="百视通体育",百视通18
-http://39.134.136.161:6610/000000001000/2000000002000000030/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000030&livemode=1&stbId=3$ITV
-#EXTINF:-1 group-title="百视通体育",百视通19
-http://39.134.136.161:6610/000000001000/2000000002000000031/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000031&livemode=1&stbId=3$ITV
-#EXTINF:-1 group-title="百视通体育",百视通20
-http://39.134.136.161:6610/000000001000/2000000002000000032/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000032&livemode=1&stbId=3$ITV
-#EXTINF:-1 group-title="百视通体育",百视通21
-http://39.134.136.161:6610/000000001000/2000000002000000033/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000033&livemode=1&stbId=3$ITV
-#EXTINF:-1 group-title="百视通体育",百视通22
-http://39.134.136.161:6610/000000001000/2000000002000000034/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000034&livemode=1&stbId=3$ITV
-#EXTINF:-1 group-title="百视通体育",百视通23
-http://39.134.136.161:6610/000000001000/2000000002000000035/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000035&livemode=1&stbId=3$ITV
-#EXTINF:-1 group-title="百视通体育",百视通24
-http://39.134.136.161:6610/000000001000/2000000002000000036/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000036&livemode=1&stbId=3$ITV
-#EXTINF:-1 group-title="百视通体育",百视通25
-http://39.134.136.161:6610/000000001000/2000000002000000037/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000037&livemode=1&stbId=3$ITV
-#EXTINF:-1 group-title="百视通体育",百视通26
-http://39.134.136.161:6610/000000001000/2000000002000000038/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000038&livemode=1&stbId=3$ITV
-#EXTINF:-1 group-title="百视通体育",百视通27
-http://39.134.136.161:6610/000000001000/2000000002000000039/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000039&livemode=1&stbId=3$ITV
-#EXTINF:-1 group-title="百视通体育",百视通28
-http://39.134.136.161:6610/000000001000/2000000002000000040/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000040&livemode=1&stbId=3$ITV
-#EXTINF:-1 group-title="百视通体育",百视通29
-http://39.134.136.161:6610/000000001000/2000000002000000041/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000041&livemode=1&stbId=3$ITV
-#EXTINF:-1 group-title="百视通体育",百视通30
-http://39.134.136.161:6610/000000001000/2000000002000000042/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000042&livemode=1&stbId=3$ITV
-#EXTINF:-1 group-title="百视通体育",百视通31
-http://39.134.136.161:6610/000000001000/2000000002000000043/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000043&livemode=1&stbId=3$ITV
-#EXTINF:-1 group-title="百视通体育",百视通32
-http://39.134.136.161:6610/000000001000/2000000002000000044/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000044&livemode=1&stbId=3$ITV
-#EXTINF:-1 group-title="百视通体育",百视通33
-http://39.134.136.161:6610/000000001000/2000000002000000045/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000045&livemode=1&stbId=3$ITV
-#EXTINF:-1 group-title="百视通体育",百视通34
-http://39.134.136.161:6610/000000001000/2000000002000000046/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000046&livemode=1&stbId=3$ITV
-#EXTINF:-1 group-title="百视通体育",百视通35
-http://39.134.136.161:6610/000000001000/2000000002000000047/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000047&livemode=1&stbId=3$ITV
-#EXTINF:-1 group-title="百视通体育",百视通36
-http://39.134.136.161:6610/000000001000/2000000002000000048/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000048&livemode=1&stbId=3$ITV
-#EXTINF:-1 group-title="百视通体育",百视通37
-http://39.134.136.161:6610/000000001000/2000000002000000049/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000049&livemode=1&stbId=3$ITV
-#EXTINF:-1 group-title="百视通体育",百视通38
-http://39.134.136.161:6610/000000001000/2000000002000000050/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000050&livemode=1&stbId=3$ITV
-#EXTINF:-1 group-title="百视通体育",百视通39
-http://39.134.136.161:6610/000000001000/2000000002000000051/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000051&livemode=1&stbId=3$ITV
-#EXTINF:-1 group-title="百视通体育",百视通40
-http://39.134.136.161:6610/000000001000/2000000002000000052/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000052&livemode=1&stbId=3$ITV
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="百视通",CCTV16-4K
 https://live.goodiptv.club/api/bestv.php?id=cctv16hd4k/15000000
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="百视通",CCTV-4K
