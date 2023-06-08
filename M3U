@@ -119,6 +119,8 @@ http://cs.iptv6.top/shds.php?id=shics
 http://cs.iptv6.top/shds.php?id=shds
 #EXTINF:-1 group-title="上海",上海纪实人文
 http://cs.iptv6.top/shds.php?id=jsrw
+#EXTINF:-1 group-title="上海",第1财经
+http://cs.iptv6.top/shds.php?id=dycj
 #EXTINF:-1,CCTV-5体育
 http://39.134.32.102:6610/270000001111/1110000305/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1,CCTV-5体育
@@ -171,15 +173,17 @@ http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&
 http://50.7.220.74:8278/hbohead_twn/playlist.m3u8?tid=MCDC6663932966639329&ct=19193&tsum=6999a99699b097f3af2ef550e5c81f93
 #EXTINF:-1,金馬影院
 http://hpull.kktv8.com:80/livekktv/128600025/playlist.m3u8
-#EXTINF:-1,HOY资讯
+#EXTINF:-1 group-title="港台",凤凰卫视HD
+https://pull-l3-cny.douyincdn.com/live/YesLiveTV-7982dda5-d0e6-4a6b-b0b2-f539543aa3e0.m3u8
+#EXTINF:-1 group-title="港台",HOY资讯
 https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
-#EXTINF:-1,HOYTV
+#EXTINF:-1 group-title="港台",HOYTV
 https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
-#EXTINF:-1,香港国际财经
+#EXTINF:-1 group-title="港台",香港国际财经
 https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
-#EXTINF:-1,爆谷台
+#EXTINF:-1 group-title="港台",爆谷台
 https://dispatch.ulivetv.net/v/live/cmkuxl1hp4n4.m3u8?stream_id=cmkuxl1hp4n4&timestamp=1685603773&rand=phF8DysBix&uuid=9b647b3816b2a66a&from=web&sign=d79d3e7ff85eed0608640691bcbc9e2f
-#EXTINF:-1,国家地理野生
+#EXTINF:-1 group-title="港台",国家地理野生
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 #EXTINF:-1,tvg-id="NBA" tvg-name="NBA" tvg-logo="http://www.2456788.com/tvicon/nba.png" group-title="体育",NBA
 http://143.244.60.97/NBATV/index.m3u8
