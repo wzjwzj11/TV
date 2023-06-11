@@ -188,8 +188,6 @@ https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 #EXTINF:-1 group-title="港台",香港国际财经
 https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
 #EXTINF:-1 group-title="港台",爆谷台
-https://dispatch.ulivetv.net/v/live/cmkuxl1hp4n4.m3u8?stream_id=cmkuxl1hp4n4&timestamp=1685603773&rand=phF8DysBix&uuid=9b647b3816b2a66a&from=web&sign=d79d3e7ff85eed0608640691bcbc9e2f
-#EXTINF:-1 group-title="港台",爆谷台
 http://sc2022.stream-link.org/list.php?id=c002
 #EXTINF:-1 group-title="港台",MYTV
 http://sc2022.stream-link.org/list.php?id=c001
