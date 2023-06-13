@@ -431,3 +431,5 @@ http://hw-m-l.cztv.com/channels/lantian/channel10/360p.m3u8?zzhed
 http://epg.112114.xyz/douyu/20415
 #EXTINF:-1 group-title="電影台",卫视卡式台
 http://pull-l3-cny.douyincdn.com/third/stream-d10b659225b3738937372b8835b98kst.m3u8
+#EXTINF:-1 group-title="音乐",音乐台
+http://de1se01.v2beat.live:80/chunks.m3u8
