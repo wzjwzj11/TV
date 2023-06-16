@@ -191,6 +191,8 @@ https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
 http://sc2022.stream-link.org/list.php?id=c002
 #EXTINF:-1 group-title="港台",Now爆谷台
 https://dispatch.ulivetv.net/v/live/cmkuxl1hp4n4.m3u8?stream_id=cmkuxl1hp4n4&timestamp=1686313038&rand=iwGMA0hPaB&uuid=9b647b3816b2a66a&from=web&sign=9082127803e8812c2ae24752e37cf96e
+#EXTINF:-1 group-title="港台",HBO 1
+http://61.221.81.93:8078/hls/23/80/hbo.m3u8
 #EXTINF:-1 group-title="港台",MYTV
 http://sc2022.stream-link.org/list.php?id=c001
 #EXTINF:-1 group-title="港台",J2
