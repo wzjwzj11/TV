@@ -173,6 +173,8 @@ http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&
 http://50.7.220.74:8278/hbohead_twn/playlist.m3u8?tid=MCDC6663932966639329&ct=19193&tsum=6999a99699b097f3af2ef550e5c81f93
 #EXTINF:-1,金馬影院
 http://hpull.kktv8.com:80/livekktv/128600025/playlist.m3u8
+#EXTINF:-1,1905电影
+http://120.220.196.43/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
 #EXTINF:-1 group-title="港台",凤凰卫视HD
 https://pull-l3-cny.douyincdn.com/live/YesLiveTV-7982dda5-d0e6-4a6b-b0b2-f539543aa3e0.m3u8
 #EXTINF:-1 group-title="港台",凤凰资讯台
