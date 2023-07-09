@@ -159,26 +159,6 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225649/2/index.m3u8
 http://39.135.138.58:18890/PLTV/88888888/224/3221225649/index.m3u8
 #EXTINF:-1,CCTV-5+体育赛事
 http://39.135.138.58:18890/PLTV/88888888/224/3221225706/index.m3u8
-#EXTINF:-1,HBO 2台
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:-1,HBO 原創
-http://198.16.64.10:8278/hbosignature_twn/playlist.m3u8?tid=MC5C5754321157543211&ct=19225&tsum=2b86077147813534b4cae6dd85bb3c4a
-#EXTINF:-1,HBO HD
-http://198.16.64.10:8278/hbohd_twn/playlist.m3u8?tid=ME9E5260921952609219&ct=19225&tsum=a904cd480db106670befb11d14149fce
-#EXTINF:-1,HBO Family
-http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&tsum=bc4d3db9ca83c3765cc75512a1bbbbe3
-#EXTINF:-1,HBO Signature
-http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
-#EXTINF:-1,HBO HITS
-http://50.7.220.74:8278/hbohead_twn/playlist.m3u8?tid=MCDC6663932966639329&ct=19193&tsum=6999a99699b097f3af2ef550e5c81f93
-#EXTINF:-1,金馬影院
-http://hpull.kktv8.com:80/livekktv/128600025/playlist.m3u8
-#EXTINF:-1,1905电影
-http://120.220.196.43/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
-#EXTINF:-1 group-title="港台",凤凰卫视HD
-https://pull-l3-cny.douyincdn.com/live/YesLiveTV-7982dda5-d0e6-4a6b-b0b2-f539543aa3e0.m3u8
-#EXTINF:-1 group-title="港台",凤凰资讯台
-http://sc2022.stream-link.org/list.php?id=h013
 #EXTINF:-1 group-title="港台",澳門蓮花衛視
 http://sc2022.stream-link.org/list.php?id=h016
 #EXTINF:-1 group-title="港台",中天新闻
@@ -433,7 +413,7 @@ http://hw-m-l.cztv.com/channels/lantian/channel10/720p.m3u8?zzhed
 http://hw-m-l.cztv.com/channels/lantian/channel10/360p.m3u8?zzhed
 #EXTINF:-1 group-title="電影台",可樂電影
 http://epg.112114.xyz/douyu/20415
-#EXTINF:-1 group-title="電影台",卫视卡式台
-http://pull-l3-cny.douyincdn.com/third/stream-d10b659225b3738937372b8835b98kst.m3u8
+#EXTINF:-1 group-title="電影台",1905电影
+http://120.220.196.43/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
 #EXTINF:-1 group-title="音乐",音乐台
 http://de1se01.v2beat.live:80/chunks.m3u8
