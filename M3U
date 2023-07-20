@@ -415,5 +415,7 @@ http://hw-m-l.cztv.com/channels/lantian/channel10/360p.m3u8?zzhed
 http://epg.112114.xyz/douyu/20415
 #EXTINF:-1 group-title="電影台",1905电影
 http://120.220.196.43/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
+#EXTINF:-1 group-title="電影台",私人影院台
+http://171.108.239.109:8181/tsfile/live/1014_1.m3u8
 #EXTINF:-1 group-title="音乐",音乐台
 http://de1se01.v2beat.live:80/chunks.m3u8
