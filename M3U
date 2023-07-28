@@ -159,8 +159,8 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225649/2/index.m3u8
 http://39.135.138.58:18890/PLTV/88888888/224/3221225649/index.m3u8
 #EXTINF:-1,CCTV-5+体育赛事
 http://39.135.138.58:18890/PLTV/88888888/224/3221225706/index.m3u8
-#EXTINF:-1 group-title="港台",澳門蓮花衛視
-http://sc2022.stream-link.org/list.php?id=h016
+#EXTINF:-1 group-title="港台",TVB J2
+http://50.7.238.114:8278/j2_twn/playlist.m3u8?tid=ME0E4382171043821710&ct=19237&tsum=6f10351124a4eb90780b2f84b2c4d349
 #EXTINF:-1 group-title="港台",中天新闻
 http://sc2022.stream-link.org/list.php?id=t003
 #EXTINF:-1 group-title="港台",HOY资讯
@@ -169,8 +169,8 @@ https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 #EXTINF:-1 group-title="港台",香港国际财经
 https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
-#EXTINF:-1 group-title="港台",爆谷台
-http://sc2022.stream-link.org/list.php?id=c002
+#EXTINF:-1 group-title="港台",爱尔达影剧
+http://198.16.100.90:8278/eltayingju_twn/playlist.m3u8?tid=MFFF8590726285907262&ct=19249&tsum=ae4cb19fed11696df934d6e2489e2978
 #EXTINF:-1 group-title="港台",Now爆谷台
 https://dispatch.ulivetv.net/v/live/cmkuxl1hp4n4.m3u8?stream_id=cmkuxl1hp4n4&timestamp=1686313038&rand=iwGMA0hPaB&uuid=9b647b3816b2a66a&from=web&sign=9082127803e8812c2ae24752e37cf96e
 #EXTINF:-1 group-title="港台",HBO 1
@@ -189,6 +189,10 @@ http://143.244.60.97/TNT/index.m3u8
 http://nocable.cc:8080/lilly1/lilly1/14197
 #EXTINF:-1 group-title="体育",纬来体育
 https://hdl.szsummer.cn/live/446035.flv?t=1840341130&k=82247f3ddb1d553b68e52eb3e3aa0ad5
+#EXTINF:-1 group-title="体育",爱尔达体育1台
+http://198.16.100.90:8278/eltasport_twn/playlist.m3u8?tid=MB5B8133126081331260&ct=19225&tsum=5cb9d121709b107014d31cf856f3572e
+#EXTINF:-1 group-title="体育",爱尔达体育2台
+http://198.16.100.90:8278/eltasport2_twn/playlist.m3u8?tid=MB2B3966739039667390&ct=19249&tsum=20bdbd3a22909e8d89aabe7a923c8c5b
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="百视通",CCTV16-4K
 https://live.goodiptv.club/api/bestv.php?id=cctv16hd4k/15000000
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="百视通",CCTV-4K
