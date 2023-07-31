@@ -175,6 +175,8 @@ http://61.221.81.93:8078/hls/23/80/hbo.m3u8
 http://sc2022.stream-link.org/list.php?id=c001
 #EXTINF:-1 group-title="港台",J2
 http://sc2022.stream-link.org/list.php?id=h003
+#EXTINF:-1 group-title="港台",寰宇新闻台湾台
+https://aot.stream-link.online/tv/tw_global_tw?token=6Sbc1e0nBVM0_cm2BgAAEA&expires=1690790331
 #EXTINF:-1 group-title="港台",国家地理野生
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 #EXTINF:-1,tvg-id="NBA" tvg-name="NBA" tvg-logo="http://www.2456788.com/tvicon/nba.png" group-title="体育",NBA
