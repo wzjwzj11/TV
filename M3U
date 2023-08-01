@@ -183,6 +183,8 @@ http://sc2022.stream-link.org/list.php?id=h003
 https://aot.stream-link.online/tv/tw_global_tw?token=6Sbc1e0nBVM0_cm2BgAAEA&expires=1690790331
 #EXTINF:-1 group-title="港台",国家地理野生
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+#EXTINF:-1 group-title="港台",美食星球
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/tvkk/smt.php?id=foodplanet_twn
 #EXTINF:-1,tvg-id="NBA" tvg-name="NBA" tvg-logo="http://www.2456788.com/tvicon/nba.png" group-title="体育",NBA
 http://143.244.60.97/NBATV/index.m3u8
 #EXTINF:-1,tvg-id="TNT" tvg-name="TNT" tvg-logo="https://panel.budtv-ultra.com/posters/1643411853516.png" group-title="体育",TNT
