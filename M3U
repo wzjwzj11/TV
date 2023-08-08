@@ -427,5 +427,7 @@ http://epg.112114.xyz/douyu/20415
 http://120.220.196.43/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
 #EXTINF:-1 group-title="電影台",私人影院台
 http://171.108.239.109:8181/tsfile/live/1014_1.m3u8
+#EXTINF:-1 group-title="電影台",美亚电影
+http://198.16.100.90:8278/meiyamovie_twn/playlist.m3u8?tid=MFEF1001328410013284&ct=19226&tsum=9839709ca0f37641c5d1ba962c3bc739
 #EXTINF:-1 group-title="音乐",音乐台
 http://de1se01.v2beat.live:80/chunks.m3u8
