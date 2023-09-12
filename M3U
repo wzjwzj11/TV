@@ -433,6 +433,16 @@ http://171.108.239.109:8181/tsfile/live/1014_1.m3u8
 http://198.16.100.90:8278/meiyamovie_twn/playlist.m3u8?tid=MFEF1001328410013284&ct=19226&tsum=9839709ca0f37641c5d1ba962c3bc739
 #EXTINF:-1 group-title="音乐",音乐台
 http://de1se01.v2beat.live:80/chunks.m3u8
+#EXTINF:-1,ESPN 4 HD
+http://190.116.90.43:8000/play/a00h
+#EXTINF:-1,ESPN HD
+http://190.116.90.43:8000/play/a00z
+#EXTINF:-1,Fox Sports 1 HD
+http://190.116.90.43:8000/play/a00u
+#EXTINF:-1,FOX Sports 2 HD
+http://190.116.90.43:8000/play/a00i
+#EXTINF:-1,FX HD
+http://190.116.90.43:8000/play/a00j
 #EXTINF:-1 tvg-logo="http://imboom.ru/images/iptv/iptvp.png" group-title="Спортивные",HK Now Premier Sports 1
 http://185.246.117.196:8888/srv2/104004/mpegts?token=5C3F513LHQQSP6S
 #EXTINF:-1 tvg-logo="http://imboom.ru/images/iptv/iptvp.png" group-title="Спортивные",HK Now Premier Sports 2
