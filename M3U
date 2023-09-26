@@ -165,6 +165,8 @@ http://openhls-tct.douyucdn2.cn/dyliveflv1/1443964rXwV2W0yv.m3u8?txSecret=ec2d08
 http://50.7.238.114:8278/j2_twn/playlist.m3u8?tid=ME0E4382171043821710&ct=19237&tsum=6f10351124a4eb90780b2f84b2c4d349
 #EXTINF:-1 group-title="港台",J2
 http://107.167.12.58:27347/livehttpplay?channel_id=30023
+#EXTINF:-1 group-title="港台",HOY
+https://d238cgug17vwpr.cloudfront.net/ch2/live.m3u8
 #EXTINF:-1 group-title="港台",HOY资讯
 https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 #EXTINF:-1 group-title="港台",HOYTV
