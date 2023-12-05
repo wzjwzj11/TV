@@ -183,6 +183,8 @@ http://8.210.88.135/smart.php?playurl=http://50.7.238.114:8278/foodplanet_twn/pl
 http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18998910474&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=xingkong_1500
 #EXTINF:-1 group-title="港台",星影
 http://pull-ali.53site.com/live/awei_xingying_channel.flv
+#EXTINF:-1 group-title="港台",Now 爆谷台
+http://108.181.20.193:27347/livehttpplay?channel_id=13002
 #EXTINF:-1,tvg-id="NBA" tvg-name="NBA" tvg-logo="http://www.2456788.com/tvicon/nba.png" group-title="体育",NBA
 http://143.244.60.97/NBATV/index.m3u8
 #EXTINF:-1,tvg-id="TNT" tvg-name="TNT" tvg-logo="https://panel.budtv-ultra.com/posters/1643411853516.png" group-title="体育",TNT
