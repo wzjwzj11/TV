@@ -83,36 +83,42 @@ http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 #EXTINF:-1 group-title="卫视",凤凰卫视中文台
 http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1668336354&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
-#EXTINF:-1 group-title="浙江",杭州综合
-http://jh.d7g.cn/tv/migu.php?id=hzzh
-#EXTINF:-1 group-title="浙江",杭州明珠
-http://jh.d7g.cn/tv/migu.php?id=hzmz
-#EXTINF:-1 group-title="浙江",杭州生活
-http://jh.d7g.cn/tv/migu.php?id=hzsh
-#EXTINF:-1 group-title="浙江",杭州影视
-http://jh.d7g.cn/tv/migu.php?id=hzys
-#EXTINF:-1 group-title="浙江",杭州体育
-http://jh.d7g.cn/tv/migu.php?id=hzse
-#EXTINF:-1 group-title="浙江",华数720p
-http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-#EXTINF:-1 group-title="浙江",杭州萧山综合
-http://l.cztvcloud.com/channels/lantian/SXxiaoshan3/720p.m3u8
-#EXTINF:-1 group-title="浙江",杭州余杭平安
-http://l.cztvcloud.com/channels/lantian/SXyuhang2/720p.m3u8
-#EXTINF:-1 group-title="浙江",杭州余杭未来
-http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
-#EXTINF:-1 group-title="浙江",杭州余杭综合
-http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
-#EXTINF:-1 group-title="浙江",宁波-1
-http://183.129.242.178:3333/tsfile/live/1010_1.m3u8
-#EXTINF:-1 group-title="浙江",宁波-2
-http://183.129.242.178:3333/tsfile/live/1011_1.m3u8
-#EXTINF:-1 group-title="浙江",宁波-3
-http://183.129.242.178:3333/tsfile/live/1012_1.m3u8
-#EXTINF:-1 group-title="浙江",宁波-4
-http://183.129.242.178:3333/tsfile/live/1013_1.m3u8
-#EXTINF:-1 group-title="浙江",宁波-5
-http://183.129.242.178:3333/tsfile/live/1014_1.m3u8
+#EXTINF:-1 group-title="浙江",杭州1
+http://183.141.217.1:9999/udp/233.50.201.173:5140
+#EXTINF:-1 group-title="浙江",杭州1
+http://183.141.217.1:9999/udp/233.50.200.209:5140
+#EXTINF:-1 group-title="浙江",杭州1
+http://183.141.217.1:9999/udp/233.50.201.21:5140
+#EXTINF:-1 group-title="浙江",杭州2
+http://183.141.217.1:9999/udp/233.50.200.210:5140
+#EXTINF:-1 group-title="浙江",杭州2
+http://183.141.217.1:9999/udp/233.50.201.22:5140
+#EXTINF:-1 group-title="浙江",杭州2
+http://183.141.217.1:9999/udp/233.50.201.174:5140
+#EXTINF:-1 group-title="浙江",杭州3
+http://183.141.217.1:9999/udp/233.50.201.23:5140
+#EXTINF:-1 group-title="浙江",杭州3
+http://183.141.217.1:9999/udp/233.50.201.175:5140
+#EXTINF:-1 group-title="浙江",杭州3
+http://183.141.217.1:9999/udp/233.50.200.211:5140
+#EXTINF:-1 group-title="浙江",杭州3
+http://183.141.217.1:9999/udp/233.50.200.211:5139
+#EXTINF:-1 group-title="浙江",杭州4
+http://183.141.217.1:9999/udp/233.50.201.176:5140
+#EXTINF:-1 group-title="浙江",杭州4
+http://183.141.217.1:9999/udp/233.50.200.212:5140
+#EXTINF:-1 group-title="浙江",杭州4
+http://183.141.217.1:9999/udp/233.50.201.24:5140
+#EXTINF:-1 group-title="浙江",杭州5
+http://183.141.217.1:9999/udp/233.50.201.177:5140
+#EXTINF:-1 group-title="浙江",杭州5
+http://183.141.217.1:9999/udp/233.50.200.213:5140
+#EXTINF:-1 group-title="浙江",杭州5
+http://183.141.217.1:9999/udp/233.50.201.25:5140
+#EXTINF:-1 group-title="浙江",杭州6
+http://183.141.217.1:9999/udp/233.50.201.182:5140
+#EXTINF:-1 group-title="浙江",杭州6
+http://183.141.217.1:9999/udp/233.50.201.26:5140
 #EXTINF:-1 group-title="上海",上海新闻综合
 http://cs.iptv6.top/shds.php?id=shxwzh
 #EXTINF:-1 group-title="上海",上海ICS
