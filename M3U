@@ -71,54 +71,20 @@ http://39.134.67.108/PLTV/88888888/224/3221225963/1.m3u8
 http://39.134.67.108/PLTV/88888888/224/3221225970/1.m3u8
 #EXTINF:-1 group-title="卫视",广西卫视HD
 http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221226211/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="卫视",浙江钱江都市
-http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-#EXTINF:-1 group-title="卫视",浙江经济生活
-http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-#EXTINF:-1 group-title="卫视",浙江教科影视
-http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-#EXTINF:-1 group-title="卫视",浙江民生休闲
-http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-#EXTINF:-1 group-title="卫视",凤凰卫视资讯台
-http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
-#EXTINF:-1 group-title="卫视",凤凰卫视中文台
-http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1668336354&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
-#EXTINF:-1 group-title="浙江",杭州1
-http://183.141.217.1:9999/udp/233.50.201.173:5140
-#EXTINF:-1 group-title="浙江",杭州1
-http://183.141.217.1:9999/udp/233.50.200.209:5140
-#EXTINF:-1 group-title="浙江",杭州1
-http://183.141.217.1:9999/udp/233.50.201.21:5140
-#EXTINF:-1 group-title="浙江",杭州2
-http://183.141.217.1:9999/udp/233.50.200.210:5140
-#EXTINF:-1 group-title="浙江",杭州2
-http://183.141.217.1:9999/udp/233.50.201.22:5140
-#EXTINF:-1 group-title="浙江",杭州2
-http://183.141.217.1:9999/udp/233.50.201.174:5140
-#EXTINF:-1 group-title="浙江",杭州3
-http://183.141.217.1:9999/udp/233.50.201.23:5140
-#EXTINF:-1 group-title="浙江",杭州3
-http://183.141.217.1:9999/udp/233.50.201.175:5140
-#EXTINF:-1 group-title="浙江",杭州3
-http://183.141.217.1:9999/udp/233.50.200.211:5140
-#EXTINF:-1 group-title="浙江",杭州3
-http://183.141.217.1:9999/udp/233.50.200.211:5139
-#EXTINF:-1 group-title="浙江",杭州4
-http://183.141.217.1:9999/udp/233.50.201.176:5140
-#EXTINF:-1 group-title="浙江",杭州4
-http://183.141.217.1:9999/udp/233.50.200.212:5140
-#EXTINF:-1 group-title="浙江",杭州4
-http://183.141.217.1:9999/udp/233.50.201.24:5140
-#EXTINF:-1 group-title="浙江",杭州5
-http://183.141.217.1:9999/udp/233.50.201.177:5140
-#EXTINF:-1 group-title="浙江",杭州5
-http://183.141.217.1:9999/udp/233.50.200.213:5140
-#EXTINF:-1 group-title="浙江",杭州5
-http://183.141.217.1:9999/udp/233.50.201.25:5140
-#EXTINF:-1 group-title="浙江",杭州6
-http://183.141.217.1:9999/udp/233.50.201.182:5140
-#EXTINF:-1 group-title="浙江",杭州6
-http://183.141.217.1:9999/udp/233.50.201.26:5140
+#EXTINF:-1 group-title="浙江",浙江钱江都市
+https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+#EXTINF:-1 group-title="浙江",浙江经济生活
+https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+#EXTINF:-1 group-title="浙江",浙江教科影视
+https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1 group-title="浙江",浙江民生休闲
+https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+#EXTINF:-1 group-title="浙江",浙江公共新闻
+https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+#EXTINF:-1 group-title="浙江",浙江少儿
+https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 group-title="浙江",浙江国际
+https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 #EXTINF:-1 group-title="上海",上海新闻综合
 http://cs.iptv6.top/shds.php?id=shxwzh
 #EXTINF:-1 group-title="上海",上海ICS
@@ -183,16 +149,6 @@ https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 #EXTINF:-1 group-title="港台",香港国际财经
 https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
-#EXTINF:-1 group-title="港台",香港麵包台
-https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-#EXTINF:-1 group-title="港台",美食星球
-http://8.210.88.135/smart.php?playurl=http://50.7.238.114:8278/foodplanet_twn/playlist.m3u8
-#EXTINF:-1 group-title="港台",星空卫视
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18998910474&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=xingkong_1500
-#EXTINF:-1 group-title="港台",Now 星影台
-http://108.181.20.193:27347/livehttpplay?channel_id=13003
-#EXTINF:-1 group-title="港台",Now 爆谷台
-http://108.181.20.193:27347/livehttpplay?channel_id=13002
 #EXTINF:-1,tvg-id="NBA" tvg-name="NBA" tvg-logo="http://www.2456788.com/tvicon/nba.png" group-title="体育",NBA
 http://143.244.60.97/NBATV/index.m3u8
 #EXTINF:-1,tvg-id="TNT" tvg-name="TNT" tvg-logo="https://panel.budtv-ultra.com/posters/1643411853516.png" group-title="体育",TNT
