@@ -244,42 +244,6 @@ http://198.16.100.90:8278/eltasport_twn/playlist.m3u8?tid=MB5B8133126081331260&c
 http://198.16.100.90:8278/eltasport2_twn/playlist.m3u8?tid=MB2B3966739039667390&ct=19249&tsum=20bdbd3a22909e8d89aabe7a923c8c5b
 #EXTINF:-1 group-title="体育",爱尔达体育3台
 http://pull-l3-activity.ixigua.com/live/pa_chong_bo_elta3.m3u8
-#EXTINF:-1 group-title="秒播",浙江钱江都市
-http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?zzhed
-#EXTINF:-1 group-title="秒播",浙江钱江都市
-http://hw-m-l.cztv.com/channels/lantian/channel02/720p.m3u8?zzhed
-#EXTINF:-1 group-title="秒播",浙江钱江都市
-http://hw-m-l.cztv.com/channels/lantian/channel02/360p.m3u8?zzhed
-#EXTINF:-1 group-title="秒播",浙江经济生活
-http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8?zzhed
-#EXTINF:-1 group-title="秒播",浙江经济生活
-http://hw-m-l.cztv.com/channels/lantian/channel03/720p.m3u8?zzhed
-#EXTINF:-1 group-title="秒播",浙江经济生活
-http://hw-m-l.cztv.com/channels/lantian/channel03/360p.m3u8?zzhed
-#EXTINF:-1 group-title="秒播",浙江教科影院
-http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8?zzhed
-#EXTINF:-1 group-title="秒播",浙江教科影院
-http://hw-m-l.cztv.com/channels/lantian/channel04/720p.m3u8?zzhed
-#EXTINF:-1 group-title="秒播",浙江教科影院
-http://hw-m-l.cztv.com/channels/lantian/channel04/360p.m3u8?zzhed
-#EXTINF:-1 group-title="秒播",浙江民生休闲
-http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?zzhed
-#EXTINF:-1 group-title="秒播",浙江民生休闲
-http://hw-m-l.cztv.com/channels/lantian/channel06/720p.m3u8?zzhed
-#EXTINF:-1 group-title="秒播",浙江民生休闲
-http://hw-m-l.cztv.com/channels/lantian/channel06/360p.m3u8?zzhed
-#EXTINF:-1 group-title="秒播",浙江新闻
-http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?zzhed
-#EXTINF:-1 group-title="秒播",浙江新闻
-http://hw-m-l.cztv.com/channels/lantian/channel07/720p.m3u8?zzhed
-#EXTINF:-1 group-title="秒播",浙江新闻
-http://hw-m-l.cztv.com/channels/lantian/channel07/360p.m3u8?zzhed
-#EXTINF:-1 group-title="秒播",浙江国际
-http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?zzhed
-#EXTINF:-1 group-title="秒播",浙江国际
-http://hw-m-l.cztv.com/channels/lantian/channel10/720p.m3u8?zzhed
-#EXTINF:-1 group-title="秒播",浙江国际
-http://hw-m-l.cztv.com/channels/lantian/channel10/360p.m3u8?zzhed
 #EXTINF:-1 group-title="電影台",可樂電影
 http://epg.112114.xyz/douyu/20415
 #EXTINF:-1 group-title="電影台",1905电影
