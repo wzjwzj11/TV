@@ -232,6 +232,8 @@ https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
 #EXTINF:-1 group-title="港台",now
 https://hk-php.kg2024.site/now/now.php?channel=332
+#EXTINF:-1 group-title="港台",三立
+https://4gtvfree-mozai.4gtv.tv/ZBvXkpM_ci5jwtFWxhdVV1uxO1wUwuVINuKspx_nj9Y%3D/1080.m3u8?token=2qSP6P9ZQiYD5ElCYC28yg&expires=1717486321&token1=kb7Dyb2lXA4x9bPRRfH8zA&expires1=1717486321&refer=ODJkYjg0MzUtZjVmYS00MTM2LWE1OWUtNTFhOTc2OGJlZGU5&y=0
 #EXTINF:-1,tvg-id="NBA" tvg-name="NBA" tvg-logo="http://www.2456788.com/tvicon/nba.png" group-title="体育",NBA
 http://143.244.60.97/NBATV/index.m3u8
 #EXTINF:-1,tvg-id="TNT" tvg-name="TNT" tvg-logo="https://panel.budtv-ultra.com/posters/1643411853516.png" group-title="体育",TNT
