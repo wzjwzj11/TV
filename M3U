@@ -138,24 +138,7 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225649/2/index.m3u8
 http://39.135.138.58:18890/PLTV/88888888/224/3221225649/index.m3u8
 #EXTINF:-1,CCTV-5+体育赛事
 http://39.135.138.58:18890/PLTV/88888888/224/3221225706/index.m3u8
-#EXTINF:-1,斗鱼直播
-http://openhls-tct.douyucdn2.cn/dyliveflv1/1443964rXwV2W0yv.m3u8?txSecret=ec2d08f4ab27f392f73b7149d02301ad&txTime=64d0845c&token=cpn-androidmpro-0-1443964-6dc663eb23953d71cae3ffc1569a5155&did=10000000000000000000000000001501&origin=tct&vhost=play1&sid=357234252
-#EXTINF:-1 group-title="港台",TVB Pearl Drama
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-65621947b7d737841f30a4f7.m3u8
-#EXTINF:-1 group-title="港台",TVB J2
-http://50.7.238.114:8278/j2_twn/playlist.m3u8?tid=ME0E4382171043821710&ct=19237&tsum=6f10351124a4eb90780b2f84b2c4d349
-#EXTINF:-1 group-title="港台",J2
-http://107.167.12.58:27347/livehttpplay?channel_id=30023
-#EXTINF:-1 group-title="港台",HOY
 https://d238cgug17vwpr.cloudfront.net/ch2/live.m3u8
-#EXTINF:-1 group-title="港台",HOY资讯
-https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
-#EXTINF:-1 group-title="港台",HOYTV
-https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
-#EXTINF:-1 group-title="港台",香港国际财经
-https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
-#EXTINF:-1 group-title="港台",now
-https://hk-php.kg2024.site/now/now.php?channel=332
 #EXTINF:-1,tvg-id="TNT" tvg-name="TNT" tvg-logo="https://panel.budtv-ultra.com/posters/1643411853516.png" group-title="体育",TNT
 http://143.244.60.97/TNT/index.m3u8
 #EXTINF:-1 group-title="体育",纬来体育
