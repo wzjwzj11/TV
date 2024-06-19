@@ -92,16 +92,44 @@ https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 #EXTINF:-1 group-title="浙江",浙江国际
 https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-#EXTINF:-1 group-title="上海",上海新闻综合
-http://cs.iptv6.top/shds.php?id=shxwzh
-#EXTINF:-1 group-title="上海",上海ICS
-http://cs.iptv6.top/shds.php?id=shics
-#EXTINF:-1 group-title="上海",上海都市
-http://cs.iptv6.top/shds.php?id=shds
-#EXTINF:-1 group-title="上海",上海纪实人文
-http://cs.iptv6.top/shds.php?id=jsrw
-#EXTINF:-1 group-title="上海",第1财经
-http://cs.iptv6.top/shds.php?id=dycj
+#EXTINF:-1 group-title="上海组播",上海新闻综合
+http://101.83.113.87:4022/udp/239.45.3.209:5140
+#EXTINF:-1 group-title="上海组播",纪实人文
+http://101.83.113.87:4022/udp/239.45.3.212:5140
+#EXTINF:-1 group-title="上海组播",生活时尚
+http://101.83.113.87:4022/udp/239.45.3.132:5140
+#EXTINF:-1 group-title="上海组播",东方卫视
+http://101.83.113.87:4022/udp/239.45.3.146:5140
+#EXTINF:-1 group-title="上海组播",上海都市
+http://101.83.113.87:4022/udp/239.45.3.236:5140
+#EXTINF:-1 group-title="上海组播",都市剧场
+http://101.83.113.87:4022/udp/239.45.3.136:5140
+#EXTINF:-1 group-title="上海组播",东方影视
+http://101.83.113.87:4022/udp/239.45.3.237:5140
+#EXTINF:-1 group-title="上海组播",第一财经
+http://101.83.113.87:4022/udp/239.45.3.211:5140
+#EXTINF:-1 group-title="上海组播",东方财经
+http://101.83.113.87:4022/udp/239.45.0.17:5140
+#EXTINF:-1 group-title="上海组播",上海ICS外语
+http://101.83.113.87:4022/udp/239.45.1.127:5140
+#EXTINF:-1 group-title="上海组播",上海教育
+http://101.83.113.87:4022/udp/239.45.0.13:5140
+#EXTINF:-1 group-title="上海组播",欢笑剧场
+http://101.83.113.87:4022/udp/239.45.3.196:5140
+#EXTINF:-1 group-title="上海组播",欢笑剧场4K
+http://101.83.113.87:4022/udp/239.45.1.4:5140
+#EXTINF:-1 group-title="上海组播",五星体育
+http://101.83.113.87:4022/udp/239.45.3.210:5140
+#EXTINF:-1 group-title="上海组播",法治天地
+http://101.83.113.87:4022/udp/239.45.1.46:5140
+#EXTINF:-1 group-title="上海组播",家庭理财
+http://101.83.113.87:4022/udp/239.45.0.14:5140
+#EXTINF:-1 group-title="上海组播",百事通4K电影
+http://101.83.113.87:4022/udp/239.45.3.107:5140
+#EXTINF:-1 group-title="上海组播",百事通4K纪实
+http://101.83.113.87:4022/udp/239.45.1.10:5140
+#EXTINF:-1 group-title="上海组播",百事通4K儿童
+http://101.83.113.87:4022/udp/239.45.1.1:5140
 #EXTINF:-1,CCTV-5体育
 http://39.134.32.102:6610/270000001111/1110000305/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1,CCTV-5体育
