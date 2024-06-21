@@ -1,41 +1,42 @@
 #EXTM3U       
-#EXTINF:-1 group-title="央视",CCTV-1HD
+#EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV 1" tvg-logo="https://assets.livednow.com/logo/CCTV1.png" group-title="央视",CCTV 1
 http://39.134.67.108/PLTV/88888888/224/3221225816/1.m3u8
-#EXTINF:-1 group-title="央视",CCTV-2HD
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV 2" tvg-logo="https://assets.livednow.com/logo/CCTV2.png" group-title="央视",CCTV 2
 http://39.134.67.108/PLTV/88888888/224/3221225599/1.m3u8
-#EXTINF:-1 group-title="央视",CCTV-3HD
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV 3" tvg-logo="https://assets.livednow.com/logo/CCTV3.png" group-title="央视",CCTV 3
 http://39.134.67.108/PLTV/88888888/224/3221225799/1.m3u8
-#EXTINF:-1 group-title="央视",CCTV-4HD
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV 4" tvg-logo="https://assets.livednow.com/logo/CCTV4.png" group-title="央视",CCTV 4
 http://39.134.67.108/PLTV/88888888/224/3221225797/1.m3u8
-#EXTINF:-1 group-title="央视",CCTV-5HD
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV 5" tvg-logo="https://assets.livednow.com/logo/CCTV5.png" group-title="央视",CCTV 5
 http://39.134.67.108/PLTV/88888888/224/3221225818/1.m3u8
-#EXTINF:-1 group-title="央视",CCTV-5+HD
+#EXTINF:-1 tvg-id="CCTV5-plus" tvg-name="CCTV 5+" tvg-logo="https://assets.livednow.com/logo/CCTV5-plus.png" group-title="央视",CCTV 5+
 http://39.134.67.108/PLTV/88888888/224/3221225507/1.m3u8
-#EXTINF:-1 group-title="央视",CCTV-6HD
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV 6" tvg-logo="https://assets.livednow.com/logo/CCTV6.png" group-title="央视",CCTV 6
 http://39.134.67.108/PLTV/88888888/224/3221225814/1.m3u8
-#EXTINF:-1 group-title="央视",CCTV-7HD
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV 7" tvg-logo="https://assets.livednow.com/logo/CCTV7.png" group-title="央视",CCTV 7
 http://39.134.67.108/PLTV/88888888/224/3221225671/1.m3u8
-#EXTINF:-1 group-title="央视",CCTV-8HD
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV 8" tvg-logo="https://assets.livednow.com/logo/CCTV8.png" group-title="央视",CCTV 8
 http://39.134.67.108/PLTV/88888888/224/3221225795/1.m3u8
-#EXTINF:-1 group-title="央视",CCTV-9HD
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV 9" tvg-logo="https://assets.livednow.com/logo/CCTV9.png" group-title="央视",CCTV 9
 http://39.134.67.108/PLTV/88888888/224/3221225676/1.m3u8
-#EXTINF:-1 group-title="央视",CCTV-10HD
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV 10" tvg-logo="https://assets.livednow.com/logo/CCTV10.png" group-title="央视",CCTV 10
 http://39.134.67.108/PLTV/88888888/224/3221225677/1.m3u8
-#EXTINF:-1 group-title="央视",CCTV-11HD
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV 11" tvg-logo="https://assets.livednow.com/logo/CCTV11.png" group-title="央视",CCTV 11
 http://39.134.67.108/PLTV/88888888/224/3221225517/1.m3u8
-#EXTINF:-1 group-title="央视",CCTV-12HD
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV 12" tvg-logo="https://assets.livednow.com/logo/CCTV12.png" group-title="央视",CCTV 12
 http://39.134.67.108/PLTV/88888888/224/3221225669/1.m3u8
-#EXTINF:-1 group-title="央视",CCTV-13HD
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV 13" tvg-logo="https://assets.livednow.com/logo/CCTV13.png" group-title="央视",CCTV 13
 http://39.134.67.108/PLTV/88888888/224/3221225812/1.m3u8
-#EXTINF:-1 group-title="央视",CCTV-14HD
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV 14" tvg-logo="https://assets.livednow.com/logo/CCTV14.png" group-title="央视",CCTV 14
 http://39.134.67.108/PLTV/88888888/224/3221225674/1.m3u8
-#EXTINF:-1 group-title="央视",CCTV-15HD
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV 15" tvg-logo="https://assets.livednow.com/logo/CCTV15.png" group-title="央视",CCTV 15
 http://39.134.67.108/PLTV/88888888/224/3221225513/1.m3u8
-#EXTINF:-1 group-title="央视",CCTV-16HD
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV 16" tvg-logo="https://assets.livednow.com/logo/CCTV16.png" group-title="央视",CCTV 16
 http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
-#EXTINF:-1 group-title="央视",CCTV-17HD
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV 17" tvg-logo="https://assets.livednow.com/logo/CCTV17.png" group-title="央视",CCTV 17
 http://39.134.67.108/PLTV/88888888/224/3221225708/1.m3u8
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视",湖南卫视
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://assets.livednow.com/logo/湖南卫视.png" group-title="卫视",湖南卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
 #EXTINF:-1 group-title="卫视",江苏卫视HD
 http://39.134.67.108/PLTV/88888888/224/3221225938/1.m3u8
@@ -92,44 +93,6 @@ https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 #EXTINF:-1 group-title="浙江",浙江国际
 https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-#EXTINF:-1 group-title="上海组播",上海新闻综合
-http://101.83.113.87:4022/udp/239.45.3.209:5140
-#EXTINF:-1 group-title="上海组播",纪实人文
-http://101.83.113.87:4022/udp/239.45.3.212:5140
-#EXTINF:-1 group-title="上海组播",生活时尚
-http://101.83.113.87:4022/udp/239.45.3.132:5140
-#EXTINF:-1 group-title="上海组播",东方卫视
-http://101.83.113.87:4022/udp/239.45.3.146:5140
-#EXTINF:-1 group-title="上海组播",上海都市
-http://101.83.113.87:4022/udp/239.45.3.236:5140
-#EXTINF:-1 group-title="上海组播",都市剧场
-http://101.83.113.87:4022/udp/239.45.3.136:5140
-#EXTINF:-1 group-title="上海组播",东方影视
-http://101.83.113.87:4022/udp/239.45.3.237:5140
-#EXTINF:-1 group-title="上海组播",第一财经
-http://101.83.113.87:4022/udp/239.45.3.211:5140
-#EXTINF:-1 group-title="上海组播",东方财经
-http://101.83.113.87:4022/udp/239.45.0.17:5140
-#EXTINF:-1 group-title="上海组播",上海ICS外语
-http://101.83.113.87:4022/udp/239.45.1.127:5140
-#EXTINF:-1 group-title="上海组播",上海教育
-http://101.83.113.87:4022/udp/239.45.0.13:5140
-#EXTINF:-1 group-title="上海组播",欢笑剧场
-http://101.83.113.87:4022/udp/239.45.3.196:5140
-#EXTINF:-1 group-title="上海组播",欢笑剧场4K
-http://101.83.113.87:4022/udp/239.45.1.4:5140
-#EXTINF:-1 group-title="上海组播",五星体育
-http://101.83.113.87:4022/udp/239.45.3.210:5140
-#EXTINF:-1 group-title="上海组播",法治天地
-http://101.83.113.87:4022/udp/239.45.1.46:5140
-#EXTINF:-1 group-title="上海组播",家庭理财
-http://101.83.113.87:4022/udp/239.45.0.14:5140
-#EXTINF:-1 group-title="上海组播",百事通4K电影
-http://101.83.113.87:4022/udp/239.45.3.107:5140
-#EXTINF:-1 group-title="上海组播",百事通4K纪实
-http://101.83.113.87:4022/udp/239.45.1.10:5140
-#EXTINF:-1 group-title="上海组播",百事通4K儿童
-http://101.83.113.87:4022/udp/239.45.1.1:5140
 #EXTINF:-1,CCTV-5体育
 http://39.134.32.102:6610/270000001111/1110000305/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1,CCTV-5体育
@@ -323,9 +286,9 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236241/index.m3u8
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236227/index.m3u8
 #EXTINF:-1 group-title="浙江移动",深圳卫视
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236251/index.m3u8
-#EXTINF:-1 group-title="浙江移动",浙江卫视
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://assets.livednow.com/logo/浙江卫视.png" group-title="浙江移动",浙江卫视
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236171/index.m3u8
-#EXTINF:-1 group-title="浙江移动",湖南卫视
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://assets.livednow.com/logo/湖南卫视.png" group-title="浙江移动",湖南卫视
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236225/index.m3u8
 #EXTINF:-1 group-title="浙江移动",天津卫视
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236217/index.m3u8
