@@ -372,6 +372,18 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230500/index.m3u8
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230463/index.m3u8
 #EXTINF:-1 group-title="浙江移动",杭州导视
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230469/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="浙江移动",之江纪录
+http://www.52sw.top:678/play/migu.php?id=zjjl
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="浙江移动",杭州综合
+http://www.52sw.top:678/play/migu.php?id=hzzh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="浙江移动",杭州明珠
+http://www.52sw.top:678/play/migu.php?id=hzmz
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="浙江移动",杭州生活
+http://www.52sw.top:678/play/migu.php?id=hzsh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="浙江移动",杭州影视
+http://www.52sw.top:678/play/migu.php?id=hzys
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="浙江移动",杭州少儿体育
+http://www.52sw.top:678/play/migu.php?id=hzse
 #EXTINF:-1 group-title="浙江移动",嘉兴新闻综合
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232990/index.m3u8
 #EXTINF:-1 group-title="浙江移动",嘉兴公共
