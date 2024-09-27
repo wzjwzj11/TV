@@ -88,6 +88,8 @@ https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 #EXTINF:-1,tvg-id="TNT" tvg-name="TNT" tvg-logo="https://panel.budtv-ultra.com/posters/1643411853516.png" group-title="体育",TNT
 http://143.244.60.97/TNT/index.m3u8
+#EXTINF:-1 group-title="電影台",爆谷台
+http://ali.hlspull.yximgs.com/live/b8cefe1e48bf720df717784cfbd27ecf.flv
 #EXTINF:-1 group-title="電影台",可樂電影
 http://epg.112114.xyz/douyu/20415
 #EXTINF:-1 group-title="音乐",音乐台
