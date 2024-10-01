@@ -362,18 +362,6 @@ https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 #EXTINF:-1 group-title="浙江移动",浙江钱江
 https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-#EXTINF:-1 group-title="浙江移动",杭州综合
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230497/index.m3u8
-#EXTINF:-1 group-title="浙江移动",杭州西湖明珠
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230466/index.m3u8
-#EXTINF:-1 group-title="浙江移动",杭州生活
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230472/index.m3u8
-#EXTINF:-1 group-title="浙江移动",杭州影视
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230500/index.m3u8
-#EXTINF:-1 group-title="浙江移动",杭州少儿体育
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230463/index.m3u8
-#EXTINF:-1 group-title="浙江移动",杭州导视
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230469/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="浙江移动",之江纪录
 http://www.52sw.top:678/play/migu.php?id=zjjl
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="浙江移动",杭州综合
