@@ -86,7 +86,7 @@ https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 #EXTINF:-1 group-title="浙江",浙江国际
 https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-#EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://assets.livednow.com/logo/CCTV1.png" group-title="体育",纬来体育
+#EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://assets.livednow.com/logo/纬来体育.png" group-title="体育",纬来体育
 https://hls.yjjcfw.com/live/vl.m3u8?hwSecret=c71871a7360776c49083da21cb32033902b1a077018266f24106a16997ebba6a&hwTime=6753166A
 #EXTINF:-1 group-title="電影台",爆谷台
 http://ali.hlspull.yximgs.com/live/b8cefe1e48bf720df717784cfbd27ecf.flv
