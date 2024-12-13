@@ -88,8 +88,22 @@ https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 #EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://assets.livednow.com/logo/纬来体育.png" group-title="体育",纬来体育
 https://hls.yjjcfw.com/live/vl.m3u8?hwSecret=c71871a7360776c49083da21cb32033902b1a077018266f24106a16997ebba6a&hwTime=6753166A
-#EXTINF:-1 group-title="電影台",爆谷台
-http://ali.hlspull.yximgs.com/live/b8cefe1e48bf720df717784cfbd27ecf.flv
+#EXTINF:-1 group-title="Now",Now爆谷台
+https://free.weidu.filegear-sg.me/aef74748/aef74748.php?user=test&channel=018bf541ad87d96a9c2b4bafbd022005bfdb59864db56cfa9b9a8b95666cd20580cf
+#EXTINF:-1 group-title="Now",Now星影台
+https://free.weidu.filegear-sg.me/aef74748/aef74748.php?user=test&channel=018bf541ad87d96a9c285c80078fce0996f2e00ebd14813c9ab69138908273d879673435a092106a
+#EXTINF:-1 group-title="Now",Popc
+https://free.weidu.filegear-sg.me/aef74748/aef74748.php?user=test&channel=1fabd2e57a316e338d5722a74d7a34b3fed60adb5f4c61ec3043
+#EXTINF:-1 group-title="Now",Now 641 NBA
+https://free.weidu.filegear-sg.me/aef74748/aef74748.php?user=test&channel=018bf5f5556e43ae58f8f02ebd022005bfdb59864db56cfa127b521c
+#EXTINF:-1 group-title="Now",Now英超1台
+https://free.weidu.filegear-sg.me/aef74748/aef74748.php?user=test&channel=018bf5f5556e43ae58264fae0a84faddfccd0f61d2a2ce03e5e886df9396cba87111610654880c
+#EXTINF:-1 group-title="Now",Now新闻台
+https://free.weidu.filegear-sg.me/aef74748/aef74748.php?user=test&channel=018bf540b3b1d84d902b4bafbd022005bfdb59864db56cfa9a988e994c66dd028acd
+#EXTINF:-1 group-title="Now",Now直播台
+https://free.weidu.filegear-sg.me/aef74748/aef74748.php?user=test&channel=018bf541beb5d748862b4bafbd022005bfdb59864db56cfa127b521c
+#EXTINF:-1 group-title="Now",Now财经台
+https://free.weidu.filegear-sg.me/aef74748/aef74748.php?user=test&channel=018bf54e91a3d661a42b4bafbd022005bfdb59864db56cfa127b521c
 #EXTINF:-1 group-title="電影台",可樂電影
 http://epg.112114.xyz/douyu/20415
 #EXTINF:-1 group-title="音乐",音乐台
