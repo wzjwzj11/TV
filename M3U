@@ -90,7 +90,7 @@ https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 https://hls.yjjcfw.com/live/vl.m3u8?hwSecret=c71871a7360776c49083da21cb32033902b1a077018266f24106a16997ebba6a&hwTime=6753166A
 #EXTINF:-1 group-title="Now",Now爆谷台
 https://free.weidu.filegear-sg.me/aef74748/aef74748.php?user=test&channel=018bf541ad87d96a9c2b4bafbd022005bfdb59864db56cfa9b9a8b95666cd20580cf
-#EXTINF:-1 group-title="Now",Now星影台
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch138_160_115" group-title="Now",Now星影台
 https://free.weidu.filegear-sg.me/aef74748/aef74748.php?user=test&channel=018bf541ad87d96a9c285c80078fce0996f2e00ebd14813c9ab69138908273d879673435a092106a
 #EXTINF:-1 group-title="Now",Popc
 https://free.weidu.filegear-sg.me/aef74748/aef74748.php?user=test&channel=1fabd2e57a316e338d5722a74d7a34b3fed60adb5f4c61ec3043
