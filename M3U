@@ -88,22 +88,96 @@ https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 #EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://assets.livednow.com/logo/纬来体育.png" group-title="体育",纬来体育
 https://hls.yjjcfw.com/live/vl.m3u8?hwSecret=c71871a7360776c49083da21cb32033902b1a077018266f24106a16997ebba6a&hwTime=6753166A
-#EXTINF:-1 group-title="Now",Now爆谷台
-https://free.weidu.filegear-sg.me/aef74748/aef74748.php?user=test&channel=018bf541ad87d96a9c2b4bafbd022005bfdb59864db56cfa9b9a8b95666cd20580cf
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch138_160_115" group-title="Now",Now星影台
-https://free.weidu.filegear-sg.me/aef74748/aef74748.php?user=test&channel=018bf541ad87d96a9c285c80078fce0996f2e00ebd14813c9ab69138908273d879673435a092106a
-#EXTINF:-1 group-title="Now",Popc
-https://free.weidu.filegear-sg.me/aef74748/aef74748.php?user=test&channel=1fabd2e57a316e338d5722a74d7a34b3fed60adb5f4c61ec3043
-#EXTINF:-1 group-title="Now",Now 641 NBA
-https://free.weidu.filegear-sg.me/aef74748/aef74748.php?user=test&channel=018bf5f5556e43ae58f8f02ebd022005bfdb59864db56cfa127b521c
-#EXTINF:-1 group-title="Now",Now英超1台
-https://free.weidu.filegear-sg.me/aef74748/aef74748.php?user=test&channel=018bf5f5556e43ae58264fae0a84faddfccd0f61d2a2ce03e5e886df9396cba87111610654880c
-#EXTINF:-1 group-title="Now",Now新闻台
-https://free.weidu.filegear-sg.me/aef74748/aef74748.php?user=test&channel=018bf540b3b1d84d902b4bafbd022005bfdb59864db56cfa9a988e994c66dd028acd
-#EXTINF:-1 group-title="Now",Now直播台
-https://free.weidu.filegear-sg.me/aef74748/aef74748.php?user=test&channel=018bf541beb5d748862b4bafbd022005bfdb59864db56cfa127b521c
-#EXTINF:-1 group-title="Now",Now财经台
-https://free.weidu.filegear-sg.me/aef74748/aef74748.php?user=test&channel=018bf54e91a3d661a42b4bafbd022005bfdb59864db56cfa127b521c
+#EXTINF:-1 group-title="astro",ASTRO SUPERSPORT 1 HD
+http://extraott.com:80/live/3969424152/3723991250/153953.m3u8
+#EXTINF:-1 group-title="astro",ASTRO SUPERSPORT 2 HD
+http://extraott.com:80/live/3969424152/3723991250/153952.m3u8
+#EXTINF:-1 group-title="astro",ASTRO SUPERSPORT 3 HD
+http://extraott.com:80/live/3969424152/3723991250/153951.m3u8
+#EXTINF:-1 group-title="astro",ASTRO SUPERSPORT 4 HD
+http://extraott.com:80/live/3969424152/3723991250/153950.m3u8
+#EXTINF:-1 group-title="astro",SUPERSPORT PREMIER LEAGUE FHD
+http://extraott.com:80/live/3969424152/3723991250/190004.m3u8
+#EXTINF:-1 group-title="astro",SUPERSPORT FOOTBALL HD
+http://extraott.com:80/live/3969424152/3723991250/190006.m3u8
+#EXTINF:-1 group-title="astro",SUPERSPORT FOOTBALL PLUS FHD
+http://extraott.com:80/live/3969424152/3723991250/400415389.m3u8
+#EXTINF:-1 group-title="astro",SUPERSPORT LA LIGA FHD
+http://extraott.com:80/live/3969424152/3723991250/190005.m3u8
+#EXTINF:-1 group-title="astro",SUPERSPORT ACTION FHD
+http://extraott.com:80/live/3969424152/3723991250/190015.m3u8
+#EXTINF:-1 group-title="astro",SUPERSPORT CRICKET FHD
+http://extraott.com:80/live/3969424152/3723991250/191776.m3u8
+#EXTINF:-1 group-title="astro",SUPERSPORT GOLF FHD
+http://extraott.com:80/live/3969424152/3723991250/191775.m3u8
+#EXTINF:-1 group-title="astro",SUPERSPORT GRANDSTAND FHD
+http://extraott.com:80/live/3969424152/3723991250/190002.m3u8
+#EXTINF:-1 group-title="astro",SUPERSPORT MAXIMO 1 HD
+http://extraott.com:80/live/3969424152/3723991250/191773.m3u8
+#EXTINF:-1 group-title="astro",SUPERSPORT MOTORSPORT HD
+http://extraott.com:80/live/3969424152/3723991250/191772.m3u8
+#EXTINF:-1 group-title="astro",SUPERSPORT PSL FHD
+http://extraott.com:80/live/3969424152/3723991250/190003.m3u8
+#EXTINF:-1 group-title="astro",SUPERSPORT RUGBY FHD
+http://extraott.com:80/live/3969424152/3723991250/191771.m3u8
+#EXTINF:-1 group-title="astro",SUPERSPORT TENNIS FHD
+http://extraott.com:80/live/3969424152/3723991250/191770.m3u8
+#EXTINF:-1 group-title="astro",SUPERSPORT VARIETY 1 FHD
+http://extraott.com:80/live/3969424152/3723991250/190007.m3u8
+#EXTINF:-1 group-title="astro",SUPERSPORT VARIETY 2 FHD
+http://extraott.com:80/live/3969424152/3723991250/190008.m3u8
+#EXTINF:-1 group-title="astro",SUPERSPORT VARIETY 3 FHD
+http://extraott.com:80/live/3969424152/3723991250/190009.m3u8
+#EXTINF:-1 group-title="astro",SUPERSPORT VARIETY 4 FHD
+http://extraott.com:80/live/3969424152/3723991250/190010.m3u8
+#EXTINF:-1 group-title="astro",SUPER SPORT PREMIER LEAGUE HD
+http://extraott.com:80/live/3969424152/3723991250/159892.m3u8
+#EXTINF:-1 group-title="astro",SUPER SPORT LALIGA HD
+http://extraott.com:80/live/3969424152/3723991250/159894.m3u8
+#EXTINF:-1 group-title="astro",SUPER SPORT FOOTBALL HD
+http://extraott.com:80/live/3969424152/3723991250/186875.m3u8
+#EXTINF:-1 group-title="astro",SUPER SPORT FOOTBALL PLUS HD
+http://extraott.com:80/live/3969424152/3723991250/400415390.m3u8
+#EXTINF:-1 group-title="astro",SUPER SPORT PSL HD
+http://extraott.com:80/live/3969424152/3723991250/159893.m3u8
+#EXTINF:-1 group-title="astro",SUPER SPORT TENNIS HD
+http://extraott.com:80/live/3969424152/3723991250/159890.m3u8
+#EXTINF:-1 group-title="astro",SUPER SPORT GOLF HD
+http://extraott.com:80/live/3969424152/3723991250/159887.m3u8
+#EXTINF:-1 group-title="astro",SUPER SPORT VARIETY 1 HD
+http://extraott.com:80/live/3969424152/3723991250/159883.m3u8
+#EXTINF:-1 group-title="astro",SUPER SPORT VARIETY 2 HD
+http://extraott.com:80/live/3969424152/3723991250/159884.m3u8
+#EXTINF:-1 group-title="astro",SUPER SPORT VARIETY 3 HD
+http://extraott.com:80/live/3969424152/3723991250/186870.m3u8
+#EXTINF:-1 group-title="astro",SUPER SPORT VARIETY 4 HD
+http://extraott.com:80/live/3969424152/3723991250/186869.m3u8
+#EXTINF:-1 group-title="astro",SUPER SPORT CRICKET HD
+http://extraott.com:80/live/3969424152/3723991250/117926.m3u8
+#EXTINF:-1 group-title="astro",SUPER SPORT RUGBY HD
+http://extraott.com:80/live/3969424152/3723991250/159889.m3u8
+#EXTINF:-1 group-title="astro",SUPER SPORT SCHOOLS HD
+http://extraott.com:80/live/3969424152/3723991250/387624.m3u8
+#EXTINF:-1 group-title="astro",SUPER SPORT MOTORSPORT HD
+http://extraott.com:80/live/3969424152/3723991250/159888.m3u8
+#EXTINF:-1 group-title="astro",SUPER SPORT MAXIMO 1 HD
+http://extraott.com:80/live/3969424152/3723991250/159896.m3u8
+#EXTINF:-1 group-title="astro",SUPER SPORT MAXIMO 2 HD
+http://extraott.com:80/live/3969424152/3723991250/401457562.m3u8
+#EXTINF:-1 group-title="astro",SUPER SPORT ACTION HD
+http://extraott.com:80/live/3969424152/3723991250/117927.m3u8
+#EXTINF:-1 group-title="astro",SUPER SPORT GRANDSTAND HD
+http://extraott.com:80/live/3969424152/3723991250/159891.m3u8
+#EXTINF:-1 group-title="astro",Super Sport Blitz HD
+http://extraott.com:80/live/3969424152/3723991250/110613.m3u8
+#EXTINF:-1 group-title="astro",SUPER SPORT PLAY HD
+http://extraott.com:80/live/3969424152/3723991250/186873.m3u8
+#EXTINF:-1 group-title="astro",SUPER SPORT OTT 2 HD
+http://extraott.com:80/live/3969424152/3723991250/186883.m3u8
+#EXTINF:-1 group-title="astro",SUPER SPORT OTT 3 HD
+http://extraott.com:80/live/3969424152/3723991250/186882.m3u8
+#EXTINF:-1 group-title="astro",SUPER SPORT OTT 4 HD
+http://extraott.com:80/live/3969424152/3723991250/186881.m3u8
 #EXTINF:-1 group-title="電影台",可樂電影
 http://epg.112114.xyz/douyu/20415
 #EXTINF:-1 group-title="音乐",音乐台
